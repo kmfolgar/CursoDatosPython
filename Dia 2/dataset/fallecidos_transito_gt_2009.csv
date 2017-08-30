@@ -1,0 +1,887 @@
+num_hecho,dia_ocu,mes_ocu,dia_sem_ocu,hora_ocu,depto_ocu,areag_ocu,sexo_pil,edad_fall,g_edad,edad_m1,tipo_vehi,color_vehi,modelo_vehi,causa_acc
+864,25,Diciembre,Viernes,Ignorado,Guatemala,Urbano,Hombre,22,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+656,25,Agosto,Martes,0,Alta Verapaz,Rural,Hombre,43,40-44,Mayor,Pick up,Rojo,1986,Embarranco
+116,19,Febrero,Jueves,0,Quiché,Rural,Mujer,1,Menos de 15,Menor,Pick up,Negro,1987,Volco
+170,7,Marzo,Sábado,0,Escuintla,Rural,Hombre,28,35-39,Mayor,Motocicleta,Rojo,1988,Empotro
+291,19,Abril,Domingo,0,Zacapa,Urbano,Hombre,17,25-29,Menor,Motocicleta,Negro,1991,Colisión
+392,4,Junio,Jueves,0,Petén,Urbano,Mujer,34,35-39,Mayor,Pick up,Azul,1994,Colisión
+217,23,Marzo,Lunes,0,Jutiapa,Rural,Hombre,20,30-34,Mayor,Automovil,Verde,1998,Empotro
+458,30,Junio,Martes,0,Quiché,Rural,Hombre,24,30-34,Mayor,Microbus,Anaranjado,2004,Volco
+829,9,Diciembre,Miércoles,0,Zacapa,Rural,Hombre,19,25-29,Mayor,Motocicleta,Gris,2005,Embarranco
+692,16,Septiembre,Miércoles,0,Escuintla,Rural,Hombre,43,40-44,Mayor,Motocicleta,Rojo,2006,Empotro
+772,3,Noviembre,Martes,0,Jutiapa,Rural,Hombre,21,30-34,Mayor,Automovil,Negro,2006,Empotro
+169,7,Marzo,Sábado,0,Quetzaltenango,Urbano,Hombre,19,25-29,Mayor,Motocicleta,Rojo,2008,Colisión
+56,26,Enero,Lunes,0,Jalapa,Rural,Hombre,28,35-39,Mayor,Pick up,Rojo,IGNORADO,Embarranco
+104,15,Febrero,Domingo,0,Retalhuleu,Rural,Hombre,30,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+187,10,Marzo,Martes,0,Quiché,Rural,Hombre,30,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+456,30,Junio,Martes,0,Guatemala,Urbano,Hombre,21,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+469,5,Julio,Domingo,0,Izabal,Rural,Mujer,32,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+781,8,Noviembre,Domingo,0,Jalapa,Rural,Hombre,46,45-49,Mayor,Pick up,Rojo,IGNORADO,Empotro
+246,6,Abril,Lunes,0,Chiquimula,Rural,Hombre,13,20-24,Menor,Pick up,Blanco,IGNORADO,Embarranco
+809,4,Diciembre,Viernes,0,Escuintla,Rural,Hombre,40,40-44,Mayor,Motocicleta,Azul,IGNORADO,Embarranco
+84,7,Febrero,Sábado,0,Sololá,Rural,Hombre,35,40-44,Mayor,Microbus,Gris,IGNORADO,Empotro
+431,20,Junio,Sábado,0,Escuintla,Rural,Hombre,38,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+847,20,Diciembre,Domingo,0,Huehutenango,Rural,Hombre,73,55 y más,Mayor,Camioneta,Gris,IGNORADO,Volco
+207,19,Marzo,Jueves,0,Escuintla,Rural,Hombre,33,35-39,Mayor,Automovil,Verde,IGNORADO,Empotro
+320,28,Abril,Martes,0,Sacatepéquez,Urbano,Hombre,38,40-44,Mayor,Automovil,Verde,IGNORADO,Empotro
+711,26,Septiembre,Sábado,0,Chiquimula,Rural,Mujer,21,30-34,Mayor,Automovil,Verde,IGNORADO,Volco
+50,25,Enero,Domingo,0,Guatemala,Rural,Hombre,18,25-29,Mayor,Automovil,Beige,IGNORADO,Empotro
+399,6,Junio,Sábado,0,Sacatepéquez,Rural,Hombre,20,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+446,25,Junio,Viernes,0,Guatemala,Urbano,Hombre,32,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+660,27,Agosto,Jueves,0,Guatemala,Urbano,Hombre,19,25-29,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+710,26,Septiembre,Sábado,0,Guatemala,Urbano,Hombre,25,35-39,Mayor,Automovil,Ignorado,IGNORADO,Empotro
+88,8,Febrero,Domingo,1,El Progreso,Rural,Hombre,22,30-34,Mayor,Automovil,Gris,1997,Colisión
+13,3,Enero,Sábado,1,Guatemala,Urbano,Hombre,28,35-39,Mayor,Automovil,Anaranjado,2002,Empotro
+683,8,Septiembre,Martes,1,Huehutenango,Rural,Hombre,35,40-44,Mayor,Pick up,Negro,2005,Embarranco
+239,2,Abril,Jueves,1,Quetzaltenango,Rural,Hombre,23,30-34,Mayor,Motocicleta,Azul,2007,Empotro
+361,19,Mayo,Martes,1,Zacapa,Rural,Hombre,31,35-39,Mayor,Motocicleta,Rojo,2008,Empotro
+433,20,Junio,Sábado,1,Izabal,Rural,Hombre,36,40-44,Mayor,Motocicleta,Rojo,2009,Embarranco
+241,4,Abril,Sábado,1,Guatemala,Rural,Hombre,35,40-44,Mayor,Pick up,Rojo,IGNORADO,Colisión
+323,1,Mayo,Viernes,1,Escuintla,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+324,1,Mayo,Viernes,1,Escuintla,Rural,Mujer,Ignorado,Ignorado,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+352,16,Mayo,Sábado,1,Guatemala,Urbano,Hombre,32,35-39,Mayor,Automovil,Rojo,IGNORADO,Empotro
+734,10,Octubre,Sábado,1,Guatemala,Urbano,Hombre,26,35-39,Mayor,Pick up,Rojo,IGNORADO,Colisión
+735,10,Octubre,Sábado,1,Guatemala,Urbano,Hombre,22,30-34,Mayor,Pick up,Rojo,IGNORADO,Colisión
+880,29,Diciembre,Martes,1,Escuintla,Rural,Hombre,48,45-49,Mayor,Pick up,Rojo,IGNORADO,Volco
+100,14,Febrero,Sábado,1,Guatemala,Rural,Hombre,22,30-34,Mayor,Automovil,Blanco,IGNORADO,Colisión
+101,14,Febrero,Sábado,1,Guatemala,Rural,Hombre,22,30-34,Mayor,Automovil,Blanco,IGNORADO,Colisión
+190,13,Marzo,Viernes,1,Guatemala,Urbano,Hombre,27,35-39,Mayor,Automovil,Azul,IGNORADO,Volco
+803,30,Noviembre,Lunes,1,Guatemala,Rural,Hombre,24,30-34,Mayor,Jeep,Azul,IGNORADO,Embarranco
+453,28,Junio,Domingo,1,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+454,28,Junio,Domingo,1,Guatemala,Urbano,Hombre,19,25-29,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+527,2,Agosto,Domingo,1,Petén,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+580,2,Agosto,Domingo,1,Petén,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+604,2,Agosto,Domingo,1,Petén,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+780,8,Noviembre,Domingo,1,Guatemala,Urbano,Hombre,41,40-44,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+449,27,Junio,Sábado,1,Guatemala,Rural,Hombre,32,35-39,Mayor,Jeep,Verde,IGNORADO,Volco
+790,20,Noviembre,Viernes,1,Izabal,Rural,Hombre,34,35-39,Mayor,Motocicleta,Amarillo,IGNORADO,Empotro
+468,5,Julio,Domingo,1,Guatemala,Rural,Hombre,22,30-34,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+121,21,Febrero,Sábado,1,Guatemala,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+182,8,Marzo,Domingo,1,El Progreso,Rural,Hombre,31,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+189,12,Marzo,Jueves,1,El Progreso,Rural,Hombre,58,50-54,Mayor,Automovil,Ignorado,IGNORADO,Volco
+488,17,Julio,Viernes,2,Guatemala,Urbano,Hombre,30,35-39,Mayor,Automovil,Beige,1990,Volco
+164,4,Marzo,Miércoles,2,Jutiapa,Rural,Hombre,22,30-34,Mayor,Pick up,Negro,1993,Colisión
+31,14,Enero,Miércoles,2,Suchitepéquez,Rural,Hombre,54,45-49,Mayor,Camioneta,Verde,2000,Volco
+848,20,Diciembre,Domingo,2,Izabal,Rural,Hombre,36,40-44,Mayor,Automovil,Ignorado,2004,Empotro
+697,19,Septiembre,Sábado,2,Chimaltenango,Rural,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,2007,Colisión
+83,7,Febrero,Sábado,2,Suchitepéquez,Rural,Mujer,19,25-29,Mayor,Automovil,Gris,2009,Empotro
+24,13,Enero,Martes,2,Totonicapán,Rural,Mujer,13,20-24,Menor,Camión,Blanco,IGNORADO,Volco
+25,13,Enero,Martes,2,Totonicapán,Rural,Mujer,18,25-29,Mayor,Camión,Blanco,IGNORADO,Volco
+26,13,Enero,Martes,2,Totonicapán,Rural,Mujer,40,40-44,Mayor,Camión,Blanco,IGNORADO,Volco
+223,26,Marzo,Jueves,2,Guatemala,Rural,Hombre,Ignorado,Ignorado,Mayor,Camión,Blanco,IGNORADO,Colisión
+269,12,Abril,Domingo,2,Escuintla,Rural,Hombre,43,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+422,16,Junio,Martes,2,Guatemala,Urbano,Hombre,28,35-39,Mayor,Automovil,Blanco,IGNORADO,Colisión
+724,3,Octubre,Sábado,2,Baja Verapaz,Rural,Hombre,40,40-44,Mayor,Camión,Blanco,IGNORADO,Volco
+741,15,Octubre,Jueves,2,Quiché,Rural,Hombre,20,30-34,Mayor,Camión,Blanco,IGNORADO,Embarranco
+148,1,Marzo,Domingo,2,Guatemala,Urbano,Hombre,26,35-39,Mayor,Automovil,Gris,IGNORADO,Empotro
+237,31,Marzo,Martes,2,Huehutenango,Rural,Hombre,40,40-44,Mayor,Pick up,Gris,IGNORADO,Empotro
+197,14,Marzo,Sábado,2,Guatemala,Rural,Hombre,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+308,25,Abril,Sábado,2,Guatemala,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+69,1,Febrero,Domingo,2,Escuintla,Rural,Hombre,39,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Embarranco
+243,5,Abril,Domingo,2,Quetzaltenango,Rural,Hombre,22,30-34,Mayor,Cabezal,Ignorado,IGNORADO,Empotro
+285,18,Abril,Sábado,2,Escuintla,Rural,Hombre,44,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+679,6,Septiembre,Domingo,2,Izabal,Rural,Hombre,20,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+769,31,Octubre,Sábado,3,El Progreso,Rural,Hombre,32,35-39,Mayor,Automovil,Rojo,1985,Colisión
+242,4,Abril,Sábado,3,Petén,Rural,Hombre,32,35-39,Mayor,Automovil,Beige,1985,Colisión
+512,29,Julio,Miércoles,3,Guatemala,Urbano,Hombre,19,25-29,Mayor,Automovil,Azul,1988,Volco
+438,21,Junio,Domingo,3,Suchitepéquez,Rural,Hombre,25,35-39,Mayor,Automovil,Corinto,1995,Volco
+277,14,Abril,Martes,3,El Progreso,Rural,Hombre,30,35-39,Mayor,Automovil,Verde,1999,Colisión
+752,21,Octubre,Miércoles,3,Guatemala,Urbano,Hombre,26,35-39,Mayor,Automovil,Ignorado,2005,Empotro
+299,21,Abril,Martes,3,Escuintla,Rural,Hombre,22,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+475,11,Julio,Sábado,3,Guatemala,Urbano,Hombre,26,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+240,3,Abril,Viernes,3,Guatemala,Urbano,Hombre,30,35-39,Mayor,Pick up,Blanco,IGNORADO,Colisión
+844,20,Diciembre,Domingo,3,Guatemala,Rural,Hombre,26,35-39,Mayor,Pick up,Blanco,IGNORADO,Colisión
+490,18,Julio,Sábado,3,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+258,10,Abril,Viernes,3,Santa Rosa,Rural,Hombre,19,25-29,Mayor,Automovil,Negro,IGNORADO,Empotro
+540,4,Agosto,Martes,3,San Marcos,Rural,Hombre,26,35-39,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+593,4,Agosto,Martes,3,San Marcos,Rural,Hombre,26,35-39,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+617,4,Agosto,Martes,3,San Marcos,Rural,Hombre,26,35-39,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+23,13,Enero,Miércoles,3,Guatemala,Rural,Hombre,50,45-49,Mayor,Automovil,Verde,IGNORADO,Colisión
+863,24,Diciembre,Jueves,3,Jalapa,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Amarillo,IGNORADO,Empotro
+351,16,Mayo,Sábado,3,Guatemala,Urbano,Hombre,27,35-39,Mayor,Automovil,Beige,IGNORADO,Colisión
+410,11,Junio,Jueves,3,Huehutenango,Rural,Mujer,19,25-29,Mayor,Bus extraurbano,Ignorado,IGNORADO,Empotro
+411,11,Junio,Jueves,3,Huehutenango,Rural,Hombre,42,40-44,Mayor,Bus extraurbano,Ignorado,IGNORADO,Empotro
+412,11,Junio,Jueves,3,Huehutenango,Rural,Hombre,8,15-19,Menor,Bus extraurbano,Ignorado,IGNORADO,Empotro
+413,11,Junio,Jueves,3,Huehutenango,Rural,Hombre,1,Menos de 15,Menor,Bus extraurbano,Ignorado,IGNORADO,Empotro
+384,31,Mayo,Domingo,4,Retalhuleu,Rural,Hombre,50,45-49,Mayor,Pick up,Corinto,1986,Colisión
+385,31,Mayo,Domingo,4,Retalhuleu,Rural,Mujer,49,45-49,Mayor,Pick up,Corinto,1986,Colisión
+230,30,Marzo,Lunes,4,Suchitepéquez,Rural,Hombre,29,35-39,Mayor,Bus extraurbano,Rojo,1992,Colisión
+231,30,Marzo,Lunes,4,Suchitepéquez,Rural,Hombre,29,35-39,Mayor,Bus extraurbano,Rojo,1992,Colisión
+232,30,Marzo,Lunes,4,Suchitepéquez,Rural,Hombre,29,35-39,Mayor,Bus extraurbano,Rojo,1992,Colisión
+801,28,Noviembre,Sábado,4,El Progreso,Rural,Hombre,40,40-44,Mayor,Automovil,Verde,1994,Empotro
+381,30,Mayo,Sábado,4,Guatemala,Urbano,Hombre,25,35-39,Mayor,Automovil,Negro,2004,Colisión
+820,7,Diciembre,Lunes,4,Izabal,Rural,Hombre,45,45-49,Mayor,Camioneta,Gris,2006,Empotro
+821,7,Diciembre,Lunes,4,Izabal,Rural,Mujer,32,35-39,Mayor,Camioneta,Gris,2006,Empotro
+822,7,Diciembre,Lunes,4,Izabal,Rural,Mujer,40,40-44,Mayor,Camioneta,Gris,2006,Empotro
+823,7,Diciembre,Lunes,4,Izabal,Rural,Mujer,9,15-19,Menor,Camioneta,Gris,2006,Empotro
+99,14,Febrero,Sábado,4,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+762,25,Octubre,Domingo,4,El Progreso,Rural,Hombre,16,25-29,Menor,Pick up,Rojo,IGNORADO,Empotro
+816,5,Diciembre,Sábado,4,Izabal,Rural,Hombre,37,40-44,Mayor,Pick up,Rojo,IGNORADO,Colisión
+866,25,Diciembre,Viernes,4,Petén,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+373,26,Mayo,Martes,4,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Gris,IGNORADO,Empotro
+774,5,Noviembre,Jueves,4,Guatemala,Urbano,Hombre,26,35-39,Mayor,Bus urbano,Gris,IGNORADO,Colisión
+861,24,Diciembre,Jueves,4,Guatemala,Urbano,Hombre,20,30-34,Mayor,Pick up,Verde,IGNORADO,Empotro
+862,24,Diciembre,Jueves,4,Guatemala,Urbano,Hombre,19,25-29,Mayor,Pick up,Verde,IGNORADO,Empotro
+166,5,Marzo,Jueves,4,Jalapa,Rural,Hombre,17,25-29,Menor,Motocicleta,Anaranjado,IGNORADO,Embarranco
+96,12,Febrero,Jueves,4,Guatemala,Rural,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+255,9,Abril,Jueves,4,Baja Verapaz,Rural,Hombre,22,30-34,Mayor,Ignorado,Ignorado,IGNORADO,Embarranco
+280,16,Abril,Jueves,4,San Marcos,Rural,Hombre,27,35-39,Mayor,Pick up,Ignorado,IGNORADO,Embarranco
+804,1,Diciembre,Martes,5,Quiché,Rural,Hombre,9,15-19,Menor,Camión,Blanco,1994,Volco
+805,1,Diciembre,Martes,5,Quiché,Rural,Hombre,13,20-24,Menor,Camión,Blanco,1994,Volco
+806,1,Diciembre,Martes,5,Quiché,Rural,Hombre,13,20-24,Menor,Camión,Blanco,1994,Volco
+842,18,Diciembre,Viernes,5,El Progreso,Rural,Hombre,61,50-54,Mayor,Pick up,Blanco,1999,Empotro
+202,16,Marzo,Lunes,5,Suchitepéquez,Rural,Hombre,34,35-39,Mayor,Motocicleta,Azul,2005,Colisión
+494,18,Julio,Sábado,5,Quiché,Rural,Hombre,24,30-34,Mayor,Pick up,Negro,2006,Embarranco
+219,24,Marzo,Martes,5,Izabal,Rural,Mujer,36,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+220,24,Marzo,Martes,5,Izabal,Rural,Mujer,8,15-19,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+749,20,Octubre,Martes,5,Escuintla,Rural,Hombre,26,35-39,Mayor,Camión,Rojo,IGNORADO,Volco
+868,28,Diciembre,Lunes,5,Jutiapa,Rural,Hombre,23,30-34,Mayor,Camión,Blanco,IGNORADO,Colisión
+869,28,Diciembre,Lunes,5,Jutiapa,Rural,Hombre,23,30-34,Mayor,Camión,Blanco,IGNORADO,Colisión
+870,28,Diciembre,Lunes,5,Jutiapa,Rural,Hombre,10,20-24,Menor,Camión,Blanco,IGNORADO,Colisión
+871,28,Diciembre,Lunes,5,Jutiapa,Rural,Hombre,19,25-29,Mayor,Camión,Blanco,IGNORADO,Colisión
+872,28,Diciembre,Lunes,5,Jutiapa,Rural,Mujer,17,25-29,Menor,Camión,Blanco,IGNORADO,Colisión
+873,28,Diciembre,Lunes,5,Jutiapa,Rural,Hombre,38,40-44,Mayor,Camión,Blanco,IGNORADO,Colisión
+48,23,Enero,Viernes,5,Petén,Rural,Hombre,37,40-44,Mayor,Pick up,Azul,IGNORADO,Empotro
+172,8,Marzo,Domingo,5,Sacatepéquez,Rural,Hombre,39,40-44,Mayor,Camioneta,Azul,IGNORADO,Empotro
+563,16,Agosto,Domingo,5,Izabal,Rural,Hombre,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Embarranco
+640,16,Agosto,Domingo,5,Izabal,Rural,Hombre,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Embarranco
+406,11,Junio,Jueves,5,Escuintla,Rural,Hombre,39,40-44,Mayor,Automovil,Verde,IGNORADO,Volco
+407,11,Junio,Jueves,5,Escuintla,Rural,Hombre,39,40-44,Mayor,Automovil,Verde,IGNORADO,Volco
+814,5,Diciembre,Sábado,5,Quetzaltenango,Rural,Mujer,80,55 y más,Mayor,Pick up,Corinto,IGNORADO,Embarranco
+815,5,Diciembre,Sábado,5,Quetzaltenango,Rural,Hombre,60,50-54,Mayor,Pick up,Corinto,IGNORADO,Embarranco
+30,14,Enero,Miércoles,5,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+103,15,Febrero,Domingo,5,Guatemala,Urbano,Hombre,32,35-39,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+301,21,Abril,Martes,5,El Progreso,Rural,Hombre,34,35-39,Mayor,Bus extraurbano,Ignorado,IGNORADO,Volco
+132,22,Febrero,Domingo,6,Suchitepéquez,Urbano,Hombre,35,40-44,Mayor,Pick up,Beige,1987,Colisión
+834,13,Diciembre,Domingo,6,Suchitepéquez,Rural,Hombre,1,Menos de 15,Menor,Pick up,Gris,1989,Empotro
+717,28,Septiembre,Lunes,6,Jutiapa,Rural,Hombre,29,35-39,Mayor,Pick up,Negro,1991,Volco
+543,6,Agosto,Jueves,6,Chimaltenango,Rural,Hombre,1,Menos de 15,Menor,Pick up,Blanco,1994,Empotro
+596,6,Agosto,Jueves,6,Chimaltenango,Rural,Hombre,1,Menos de 15,Menor,Pick up,Blanco,1994,Empotro
+620,6,Agosto,Jueves,6,Chimaltenango,Rural,Hombre,1,Menos de 15,Menor,Pick up,Blanco,1994,Empotro
+550,10,Agosto,Lunes,6,Escuintla,Rural,Hombre,60,50-54,Mayor,Automovil,Corinto,1997,Colisión
+551,10,Agosto,Lunes,6,Escuintla,Rural,Hombre,19,25-29,Mayor,Automovil,Corinto,1997,Colisión
+627,10,Agosto,Lunes,6,Escuintla,Rural,Hombre,60,50-54,Mayor,Automovil,Corinto,1997,Colisión
+628,10,Agosto,Lunes,6,Escuintla,Rural,Hombre,19,25-29,Mayor,Automovil,Corinto,1997,Colisión
+824,8,Diciembre,Martes,6,Baja Verapaz,Rural,Hombre,34,35-39,Mayor,Motocicleta,Blanco,2004,Colisión
+46,21,Enero,Miércoles,6,Chimaltenango,Rural,Hombre,40,40-44,Mayor,Microbus,Rojo,2006,Colisión
+47,21,Enero,Miércoles,6,Chimaltenango,Rural,Hombre,30,35-39,Mayor,Microbus,Rojo,2006,Colisión
+261,11,Abril,Sábado,6,Jutiapa,Rural,Hombre,7,15-19,Menor,Bus extraurbano,Rojo,IGNORADO,Volco
+262,11,Abril,Sábado,6,Jutiapa,Rural,Hombre,14,20-24,Menor,Bus extraurbano,Rojo,IGNORADO,Volco
+461,2,Julio,Jueves,6,Guatemala,Urbano,Hombre,23,30-34,Mayor,Automovil,Rojo,IGNORADO,Colisión
+568,19,Agosto,Miércoles,6,El Progreso,Rural,Hombre,37,40-44,Mayor,Microbus,Rojo,IGNORADO,Colisión
+645,19,Agosto,Miércoles,6,El Progreso,Rural,Hombre,37,40-44,Mayor,Microbus,Rojo,IGNORADO,Colisión
+61,30,Enero,Viernes,6,El Progreso,Rural,Hombre,25,35-39,Mayor,Camión,Blanco,IGNORADO,Colisión
+62,30,Enero,Viernes,6,El Progreso,Rural,Mujer,30,35-39,Mayor,Camión,Blanco,IGNORADO,Colisión
+63,30,Enero,Viernes,6,El Progreso,Rural,Hombre,19,25-29,Mayor,Camión,Blanco,IGNORADO,Colisión
+210,21,Marzo,Sábado,6,Suchitepéquez,Rural,Hombre,35,40-44,Mayor,Camión,Blanco,IGNORADO,Colisión
+682,7,Septiembre,Martes,6,Guatemala,Urbano,Hombre,36,40-44,Mayor,Automovil,Blanco,IGNORADO,Empotro
+686,12,Septiembre,Sábado,6,Zacapa,Rural,Hombre,39,40-44,Mayor,Camión,Blanco,IGNORADO,Colisión
+698,19,Septiembre,Sábado,6,Santa Rosa,Rural,Hombre,71,55 y más,Mayor,Panel,Blanco,IGNORADO,Embarranco
+830,11,Diciembre,Viernes,6,Suchitepéquez,Rural,Hombre,40,40-44,Mayor,Cabezal,Azul,IGNORADO,Volco
+312,26,Abril,Domingo,6,Guatemala,Rural,Hombre,28,35-39,Mayor,Camioneta,Negro,IGNORADO,Volco
+313,26,Abril,Domingo,6,Guatemala,Rural,Hombre,65,55 y más,Mayor,Camioneta,Negro,IGNORADO,Volco
+493,18,Julio,Sábado,6,San Marcos,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Embarranco
+713,27,Septiembre,Domingo,6,Guatemala,Urbano,Hombre,26,35-39,Mayor,Automovil,Negro,IGNORADO,Empotro
+145,28,Febrero,Sábado,6,San Marcos,Rural,Hombre,34,35-39,Mayor,Pick up,Corinto,IGNORADO,Volco
+146,28,Febrero,Sábado,6,San Marcos,Rural,Hombre,28,35-39,Mayor,Pick up,Corinto,IGNORADO,Volco
+147,28,Febrero,Sábado,6,San Marcos,Rural,Hombre,12,20-24,Menor,Pick up,Corinto,IGNORADO,Volco
+288,19,Abril,Domingo,6,Guatemala,Urbano,Hombre,35,40-44,Mayor,Automovil,Corinto,IGNORADO,Colisión
+19,10,Enero,Sábado,6,Escuintla,Rural,Hombre,34,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+364,19,Mayo,Martes,6,San Marcos,Rural,Hombre,36,40-44,Mayor,Pick up,Ignorado,IGNORADO,Empotro
+43,18,Enero,Domingo,7,Santa Rosa,Rural,Mujer,18,25-29,Mayor,Pick up,Azul,1966,Colisión
+382,30,Mayo,Sábado,7,Alta Verapaz,Rural,Mujer,30,35-39,Mayor,Pick up,Blanco,1982,Empotro
+839,16,Diciembre,Miércoles,7,Suchitepéquez,Rural,Hombre,34,35-39,Mayor,Pick up,Ignorado,1984,Colisión
+457,30,Junio,Martes,7,Guatemala,Urbano,Mujer,56,50-54,Mayor,Automovil,Blanco,1992,Colisión
+113,18,Febrero,Miércoles,7,Quetzaltenango,Rural,Mujer,19,25-29,Mayor,Pick up,Verde,1992,Volco
+114,18,Febrero,Miércoles,7,Quetzaltenango,Rural,Hombre,9,15-19,Menor,Pick up,Verde,1992,Volco
+476,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,18,25-29,Mayor,Camión,Blanco,1999,Colisión
+477,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,70,55 y más,Mayor,Camión,Blanco,1999,Colisión
+478,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,25,35-39,Mayor,Camión,Blanco,1999,Colisión
+479,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,38,40-44,Mayor,Camión,Blanco,1999,Colisión
+480,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,22,30-34,Mayor,Camión,Blanco,1999,Colisión
+481,11,Julio,Sábado,7,Jutiapa,Rural,Hombre,50,45-49,Mayor,Camión,Blanco,1999,Colisión
+737,10,Octubre,Sábado,7,El Progreso,Rural,Hombre,43,40-44,Mayor,Camión,Blanco,2002,Colisión
+195,14,Marzo,Sábado,7,Izabal,Rural,Hombre,34,35-39,Mayor,Pick up,Blanco,IGNORADO,Colisión
+196,14,Marzo,Sábado,7,Izabal,Rural,Hombre,22,30-34,Mayor,Pick up,Blanco,IGNORADO,Colisión
+663,28,Agosto,Viernes,7,Santa Rosa,Rural,Hombre,65,55 y más,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+350,15,Mayo,Viernes,7,Quetzaltenango,Rural,Ignorado,Ignorado,Ignorado,Ignorado,Pick up,Gris,IGNORADO,Colisión
+764,28,Octubre,Miércoles,7,Guatemala,Urbano,Mujer,23,30-34,Mayor,Automovil,Negro,IGNORADO,Empotro
+57,26,Enero,Lunes,7,Totonicapán,Rural,Hombre,20,30-34,Mayor,Pick up,Verde,IGNORADO,Colisión
+249,7,Abril,Martes,7,Izabal,Rural,Mujer,71,55 y más,Mayor,Automovil,Verde,IGNORADO,Colisión
+253,9,Abril,Jueves,7,San Marcos,Rural,Hombre,38,40-44,Mayor,Camioneta,Verde,IGNORADO,Embarranco
+254,9,Abril,Jueves,7,San Marcos,Rural,Hombre,56,50-54,Mayor,Camioneta,Verde,IGNORADO,Embarranco
+38,17,Enero,Sábado,7,Guatemala,Urbano,Hombre,25,35-39,Mayor,Motocicleta,Amarillo,IGNORADO,Colisión
+28,13,Enero,Martes,7,Petén,Rural,Hombre,61,50-54,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+526,2,Agosto,Domingo,7,Zacapa,Rural,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+579,2,Agosto,Domingo,7,Zacapa,Rural,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+603,2,Agosto,Domingo,7,Zacapa,Rural,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+840,16,Diciembre,Miércoles,7,Baja Verapaz,Rural,Hombre,21,30-34,Mayor,Pick up,Ignorado,IGNORADO,Embarranco
+567,18,Agosto,Martes,8,Sololá,Rural,Hombre,55,50-54,Mayor,Pick up,Amarillo,1982,Colisión
+644,18,Agosto,Martes,8,Sololá,Rural,Hombre,55,50-54,Mayor,Pick up,Amarillo,1982,Colisión
+517,31,Julio,Viernes,8,Chimaltenango,Rural,Hombre,43,40-44,Mayor,Camión,Corinto,1983,Embarranco
+5,1,Enero,Jueves,8,Escuintla,Rural,Hombre,12,20-24,Menor,Automovil,Anaranjado,1983,Volco
+6,1,Enero,Jueves,8,Escuintla,Rural,Mujer,25,35-39,Mayor,Automovil,Anaranjado,1983,Volco
+731,9,Octubre,Viernes,8,Guatemala,Urbano,Hombre,47,45-49,Mayor,Automovil,Corinto,1990,Colisión
+295,20,Abril,Lunes,8,Escuintla,Rural,Mujer,9,15-19,Menor,Camioneta,Corinto,1994,Volco
+566,17,Agosto,Lunes,8,Chimaltenango,Rural,Hombre,62,50-54,Mayor,Microbus,Gris,1997,Colisión
+643,17,Agosto,Lunes,8,Chimaltenango,Rural,Hombre,62,50-54,Mayor,Microbus,Gris,1997,Colisión
+53,25,Enero,Domingo,8,Escuintla,Rural,Hombre,23,30-34,Mayor,Automovil,Blanco,1999,Volco
+514,30,Julio,Jueves,8,Escuintla,Urbano,Hombre,16,25-29,Menor,Motocicleta,Rojo,2001,Colisión
+98,13,Febrero,Viernes,8,Quetzaltenango,Rural,Hombre,51,45-49,Mayor,Motocicleta,Rojo,2008,Empotro
+160,3,Marzo,Martes,8,Escuintla,Rural,Hombre,28,35-39,Mayor,Motocicleta,Blanco,2008,Colisión
+745,18,Octubre,Domingo,8,San Marcos,Rural,Hombre,33,35-39,Mayor,Automovil,Ignorado,2008,Empotro
+140,27,Febrero,Viernes,8,Quetzaltenango,Rural,Mujer,25,35-39,Mayor,Pick up,Rojo,IGNORADO,Volco
+141,27,Febrero,Viernes,8,Quetzaltenango,Rural,Mujer,53,45-49,Mayor,Pick up,Rojo,IGNORADO,Volco
+142,27,Febrero,Viernes,8,Quetzaltenango,Rural,Mujer,1,Menos de 15,Menor,Pick up,Rojo,IGNORADO,Volco
+143,27,Febrero,Viernes,8,Quetzaltenango,Rural,Mujer,1,Menos de 15,Menor,Pick up,Rojo,IGNORADO,Volco
+229,29,Marzo,Domingo,8,Escuintla,Rural,Hombre,20,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+557,15,Agosto,Sábado,8,Retalhuleu,Rural,Hombre,48,45-49,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+634,15,Agosto,Sábado,8,Retalhuleu,Rural,Hombre,48,45-49,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+748,19,Octubre,Lunes,8,San Marcos,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+70,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,19,25-29,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+71,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,65,55 y más,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+72,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,20,30-34,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+73,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,65,55 y más,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+74,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,20,30-34,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+75,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,49,45-49,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+76,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,16,25-29,Menor,Bus extraurbano,Blanco,IGNORADO,Colisión
+77,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,20,30-34,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+78,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,34,35-39,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+79,2,Febrero,Lunes,8,Zacapa,Rural,Hombre,42,40-44,Mayor,Bus extraurbano,Blanco,IGNORADO,Colisión
+405,10,Junio,Miércoles,8,Sacatepéquez,Rural,Hombre,55,50-54,Mayor,Automovil,Blanco,IGNORADO,Colisión
+510,28,Julio,Martes,8,San Marcos,Rural,Mujer,46,45-49,Mayor,Pick up,Blanco,IGNORADO,Colisión
+673,2,Septiembre,Miércoles,8,Zacapa,Rural,Hombre,49,45-49,Mayor,Automovil,Blanco,IGNORADO,Colisión
+674,2,Septiembre,Miércoles,8,Zacapa,Rural,Mujer,25,35-39,Mayor,Automovil,Blanco,IGNORADO,Colisión
+535,3,Agosto,Lunes,8,Huehutenango,Rural,Mujer,55,50-54,Mayor,Pick up,Gris,IGNORADO,Colisión
+588,3,Agosto,Lunes,8,Huehutenango,Rural,Mujer,55,50-54,Mayor,Pick up,Gris,IGNORADO,Colisión
+612,3,Agosto,Lunes,8,Huehutenango,Rural,Mujer,55,50-54,Mayor,Pick up,Gris,IGNORADO,Colisión
+664,28,Agosto,Viernes,8,Suchitepéquez,Urbano,Hombre,17,25-29,Menor,Motocicleta,Gris,IGNORADO,Embarranco
+665,28,Agosto,Viernes,8,Suchitepéquez,Urbano,Hombre,16,25-29,Menor,Motocicleta,Gris,IGNORADO,Embarranco
+832,12,Diciembre,Sábado,8,Chimaltenango,Rural,Hombre,11,20-24,Menor,Motocicleta,Negro,IGNORADO,Colisión
+524,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,58,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+525,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,62,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+577,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,58,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+578,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,62,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+601,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,58,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+602,2,Agosto,Domingo,8,Guatemala,Urbano,Hombre,62,50-54,Mayor,Cabezal,Amarillo,IGNORADO,Empotro
+174,8,Marzo,Domingo,8,Jutiapa,Urbano,Mujer,11,20-24,Menor,Bus extraurbano,Corinto,IGNORADO,Embarranco
+175,8,Marzo,Domingo,8,Jutiapa,Urbano,Hombre,25,35-39,Mayor,Bus extraurbano,Corinto,IGNORADO,Embarranco
+330,3,Mayo,Domingo,8,Guatemala,Rural,Hombre,34,35-39,Mayor,Pick up,Corinto,IGNORADO,Volco
+445,25,Junio,Viernes,8,Guatemala,Urbano,Hombre,58,50-54,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+274,13,Abril,Lunes,8,El Progreso,Rural,Hombre,34,35-39,Mayor,Automovil,Ignorado,IGNORADO,Embarranco
+275,13,Abril,Lunes,8,El Progreso,Rural,Hombre,34,35-39,Mayor,Automovil,Ignorado,IGNORADO,Embarranco
+332,3,Mayo,Domingo,8,Guatemala,Rural,Hombre,30,35-39,Mayor,Pick up,Ignorado,IGNORADO,Empotro
+355,17,Mayo,Domingo,8,Quiché,Rural,Hombre,42,40-44,Mayor,Camión,Ignorado,IGNORADO,Empotro
+356,17,Mayo,Domingo,8,Quiché,Rural,Mujer,6,15-19,Menor,Camión,Ignorado,IGNORADO,Empotro
+357,17,Mayo,Domingo,8,Quiché,Rural,Hombre,52,45-49,Mayor,Camión,Ignorado,IGNORADO,Empotro
+434,20,Junio,Sábado,8,Petén,Rural,Hombre,34,35-39,Mayor,Microbus,Ignorado,IGNORADO,Colisión
+715,28,Septiembre,Lunes,9,Huehutenango,Rural,Hombre,45,45-49,Mayor,Pick up,Corinto,1984,Embarranco
+272,13,Abril,Lunes,9,Jalapa,Rural,Hombre,34,35-39,Mayor,Automovil,Ignorado,1989,Embarranco
+273,13,Abril,Lunes,9,Jalapa,Rural,Hombre,34,35-39,Mayor,Automovil,Ignorado,1989,Embarranco
+667,30,Agosto,Domingo,9,Jalapa,Rural,Hombre,33,35-39,Mayor,Pick up,Rojo,1995,Embarranco
+472,9,Julio,Jueves,9,Suchitepéquez,Rural,Hombre,61,50-54,Mayor,Motocicleta,Rojo,2007,Colisión
+124,22,Febrero,Domingo,9,Quetzaltenango,Rural,Hombre,33,35-39,Mayor,Motocicleta,Azul,2007,Embarranco
+185,9,Marzo,Lunes,9,Jutiapa,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+448,27,Junio,Sábado,9,Guatemala,Urbano,Mujer,58,50-54,Mayor,Mototaxi,Rojo,IGNORADO,Embarranco
+800,28,Noviembre,Sábado,9,Escuintla,Rural,Hombre,21,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+21,12,Enero,Lunes,9,Zacapa,Rural,Hombre,40,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+178,8,Marzo,Domingo,9,Baja Verapaz,Rural,Hombre,37,40-44,Mayor,Pick up,Blanco,IGNORADO,Empotro
+496,20,Julio,Lunes,9,Jutiapa,Rural,Hombre,28,35-39,Mayor,Camión,Blanco,IGNORADO,Colisión
+554,13,Agosto,Jueves,9,Quiché,Rural,Mujer,55,50-54,Mayor,Pick up,Blanco,IGNORADO,Colisión
+631,13,Agosto,Jueves,9,Quiché,Rural,Mujer,55,50-54,Mayor,Pick up,Blanco,IGNORADO,Colisión
+389,3,Junio,Miércoles,9,Escuintla,Rural,Hombre,18,25-29,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+390,3,Junio,Miércoles,9,Escuintla,Rural,Hombre,18,25-29,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+776,6,Noviembre,Viernes,9,Sacatepéquez,Rural,Hombre,42,40-44,Mayor,Automovil,Azul,IGNORADO,Volco
+408,11,Junio,Jueves,9,Santa Rosa,Rural,Hombre,32,35-39,Mayor,Motocicleta,Negro,IGNORADO,Embarranco
+463,3,Julio,Viernes,9,Guatemala,Rural,Hombre,48,45-49,Mayor,Pick up,Negro,IGNORADO,Embarranco
+761,25,Octubre,Domingo,9,Escuintla,Rural,Hombre,19,25-29,Mayor,Motocicleta,Negro,IGNORADO,Embarranco
+835,13,Diciembre,Domingo,9,San Marcos,Rural,Hombre,55,50-54,Mayor,Pick up,Negro,IGNORADO,Colisión
+354,17,Mayo,Domingo,9,Guatemala,Rural,Hombre,26,35-39,Mayor,Automovil,Verde,IGNORADO,Colisión
+58,28,Enero,Miércoles,9,Guatemala,Urbano,Hombre,26,35-39,Mayor,Bus urbano,Ignorado,IGNORADO,Volco
+59,28,Enero,Miércoles,9,Guatemala,Urbano,Mujer,Ignorado,Ignorado,Mayor,Bus urbano,Ignorado,IGNORADO,Volco
+371,25,Mayo,Lunes,9,El Progreso,Rural,Hombre,33,35-39,Mayor,Camión,Ignorado,IGNORADO,Colisión
+372,25,Mayo,Lunes,9,El Progreso,Rural,Hombre,34,35-39,Mayor,Camión,Ignorado,IGNORADO,Colisión
+395,6,Junio,Sábado,9,Guatemala,Urbano,Hombre,30,35-39,Mayor,Microbus,Ignorado,IGNORADO,Empotro
+396,6,Junio,Sábado,9,Guatemala,Urbano,Mujer,43,40-44,Mayor,Microbus,Ignorado,IGNORADO,Empotro
+443,24,Junio,Miércoles,9,Sololá,Rural,Hombre,17,25-29,Menor,Bus extraurbano,Ignorado,IGNORADO,Colisión
+704,24,Septiembre,Jueves,9,Sacatepéquez,Rural,Hombre,45,45-49,Mayor,Bus extraurbano,Ignorado,IGNORADO,Colisión
+705,24,Septiembre,Jueves,9,Sacatepéquez,Rural,Hombre,30,35-39,Mayor,Bus extraurbano,Ignorado,IGNORADO,Colisión
+706,24,Septiembre,Jueves,9,Sacatepéquez,Rural,Mujer,28,35-39,Mayor,Bus extraurbano,Ignorado,IGNORADO,Colisión
+707,24,Septiembre,Jueves,9,Sacatepéquez,Rural,Hombre,45,45-49,Mayor,Bus extraurbano,Ignorado,IGNORADO,Colisión
+569,20,Agosto,Jueves,10,Quetzaltenango,Rural,Mujer,58,50-54,Mayor,Pick up,Beige,1986,Colisión
+570,20,Agosto,Jueves,10,Quetzaltenango,Rural,Mujer,50,45-49,Mayor,Pick up,Beige,1986,Colisión
+646,20,Agosto,Jueves,10,Quetzaltenango,Rural,Mujer,58,50-54,Mayor,Pick up,Beige,1986,Colisión
+647,20,Agosto,Jueves,10,Quetzaltenango,Rural,Mujer,50,45-49,Mayor,Pick up,Beige,1986,Colisión
+32,14,Enero,Miércoles,10,Chimaltenango,Rural,Hombre,35,40-44,Mayor,Bus extraurbano,Blanco,1989,Colisión
+2,1,Enero,Jueves,10,Quiché,Rural,Hombre,3,Menos de 15,Menor,Pick up,Verde,1993,Empotro
+503,25,Julio,Sábado,10,Guatemala,Rural,Mujer,10,20-24,Menor,Camioneta,Verde,1994,Colisión
+208,19,Marzo,Jueves,10,Huehutenango,Rural,Hombre,25,35-39,Mayor,Pick up,Corinto,1994,Colisión
+168,6,Marzo,Viernes,10,Jutiapa,Rural,Hombre,27,35-39,Mayor,Pick up,Corinto,1999,Colisión
+122,22,Febrero,Domingo,10,Guatemala,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Rojo,2006,Colisión
+133,25,Febrero,Miércoles,10,Guatemala,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Rojo,2006,Colisión
+404,9,Junio,Martes,10,Quiché,Urbano,Mujer,68,55 y más,Mayor,Mototaxi,Rojo,2006,Colisión
+684,8,Septiembre,Martes,10,El Progreso,Rural,Hombre,57,50-54,Mayor,Motocicleta,Rojo,2006,Colisión
+115,19,Febrero,Jueves,10,Retalhuleu,Rural,Hombre,54,45-49,Mayor,Camioneta,Rojo,IGNORADO,Volco
+417,14,Junio,Domingo,10,Escuintla,Rural,Hombre,32,35-39,Mayor,Cabezal,Rojo,IGNORADO,Colisión
+90,10,Febrero,Martes,10,Suchitepéquez,Rural,Hombre,74,55 y más,Mayor,Pick up,Blanco,IGNORADO,Colisión
+419,15,Junio,Lunes,10,El Progreso,Rural,Hombre,35,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+420,15,Junio,Lunes,10,El Progreso,Rural,Hombre,48,45-49,Mayor,Pick up,Blanco,IGNORADO,Colisión
+421,15,Junio,Lunes,10,El Progreso,Rural,Hombre,40,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+699,20,Septiembre,Domingo,10,Guatemala,Urbano,Hombre,44,40-44,Mayor,Motocicleta,Azul,IGNORADO,Empotro
+565,17,Agosto,Lunes,10,Baja Verapaz,Rural,Hombre,17,25-29,Menor,Motocicleta,Negro,IGNORADO,Empotro
+642,17,Agosto,Lunes,10,Baja Verapaz,Rural,Hombre,17,25-29,Menor,Motocicleta,Negro,IGNORADO,Empotro
+881,30,Diciembre,Miércoles,10,Guatemala,Urbano,Hombre,25,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+849,20,Diciembre,Domingo,10,Sololá,Rural,Hombre,26,35-39,Mayor,Automovil,Verde,IGNORADO,Colisión
+439,22,Junio,Lunes,10,Zacapa,Rural,Hombre,35,40-44,Mayor,Motocicleta,Amarillo,IGNORADO,Volco
+378,28,Mayo,Jueves,10,Petén,Rural,Mujer,35,40-44,Mayor,Automovil,Corinto,IGNORADO,Colisión
+379,28,Mayo,Jueves,10,Petén,Rural,Hombre,36,40-44,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+728,7,Octubre,Miércoles,10,Chiquimula,Rural,Hombre,66,55 y más,Mayor,Automovil,Corinto,IGNORADO,Colisión
+33,15,Enero,Jueves,10,Chimaltenango,Rural,Hombre,60,50-54,Mayor,Camioneta,Café,IGNORADO,Empotro
+34,15,Enero,Jueves,10,Chimaltenango,Rural,Mujer,Ignorado,Ignorado,Mayor,Camioneta,Café,IGNORADO,Empotro
+300,21,Abril,Martes,10,Guatemala,Rural,Hombre,30,35-39,Mayor,Camión,Ignorado,IGNORADO,Colisión
+337,7,Mayo,Jueves,10,Alta Verapaz,Rural,Hombre,49,45-49,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+447,26,Junio,Viernes,10,Suchitepéquez,Rural,Hombre,38,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+161,3,Marzo,Martes,11,Escuintla,Urbano,Hombre,22,30-34,Mayor,Motocicleta,Negro,1995,Colisión
+250,7,Abril,Martes,11,Sacatepéquez,Rural,Mujer,74,55 y más,Mayor,Automovil,Blanco,1999,Empotro
+791,22,Noviembre,Domingo,11,Guatemala,Rural,Hombre,19,25-29,Mayor,Automovil,Gris,2003,Embarranco
+194,14,Marzo,Sábado,11,Escuintla,Rural,Hombre,51,45-49,Mayor,Motocicleta,Blanco,2006,Colisión
+418,15,Junio,Lunes,11,Zacapa,Rural,Hombre,30,35-39,Mayor,Panel,Blanco,2006,Colisión
+244,6,Abril,Lunes,11,Jutiapa,Rural,Hombre,53,45-49,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+245,6,Abril,Lunes,11,Jutiapa,Rural,Hombre,20,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+771,3,Noviembre,Martes,11,Guatemala,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+179,8,Marzo,Domingo,11,El Progreso,Rural,Hombre,34,35-39,Mayor,Automovil,Blanco,IGNORADO,Embarranco
+180,8,Marzo,Domingo,11,El Progreso,Rural,Mujer,36,40-44,Mayor,Automovil,Blanco,IGNORADO,Embarranco
+181,8,Marzo,Domingo,11,El Progreso,Rural,Mujer,5,15-19,Menor,Automovil,Blanco,IGNORADO,Embarranco
+429,18,Junio,Jueves,11,Suchitepéquez,Rural,Hombre,30,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+825,8,Diciembre,Martes,11,Quiché,Rural,Hombre,19,25-29,Mayor,Pick up,Azul,IGNORADO,Volco
+826,9,Diciembre,Miércoles,11,Jutiapa,Rural,Hombre,46,45-49,Mayor,Automovil,Gris,IGNORADO,Colisión
+827,9,Diciembre,Miércoles,11,Jutiapa,Rural,Hombre,2,Menos de 15,Menor,Automovil,Gris,IGNORADO,Colisión
+366,20,Mayo,Miércoles,11,Izabal,Urbano,Hombre,33,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+80,4,Febrero,Miércoles,11,Santa Rosa,Rural,Hombre,17,25-29,Menor,Tractor,Verde,IGNORADO,Volco
+777,7,Noviembre,Sábado,11,Retalhuleu,Rural,Hombre,37,40-44,Mayor,Motocicleta,Verde,IGNORADO,Colisión
+556,14,Agosto,Viernes,11,Huehutenango,Urbano,Mujer,22,30-34,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+633,14,Agosto,Viernes,11,Huehutenango,Urbano,Mujer,22,30-34,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+238,1,Abril,Miércoles,11,El Progreso,Rural,Hombre,52,45-49,Mayor,Pick up,Beige,IGNORADO,Colisión
+485,13,Julio,Lunes,11,Huehutenango,Rural,Hombre,19,25-29,Mayor,Pick up,Ignorado,IGNORADO,Embarranco
+694,16,Septiembre,Miércoles,12,San Marcos,Rural,Hombre,25,35-39,Mayor,Jeep,Rojo,1986,Embarranco
+29,13,Enero,Martes,12,Petén,Rural,Hombre,50,45-49,Mayor,Pick up,Blanco,1992,Volco
+212,22,Marzo,Domingo,12,Zacapa,Urbano,Hombre,31,35-39,Mayor,Motocicleta,Blanco,1998,Colisión
+442,23,Junio,Martes,12,Sololá,Rural,Mujer,30,35-39,Mayor,Camión,Blanco,2002,Colisión
+1,1,Enero,Jueves,12,Guatemala,Urbano,Hombre,32,35-39,Mayor,Automovil,Gris,2003,Colisión
+67,31,Enero,Sábado,12,Escuintla,Rural,Hombre,56,50-54,Mayor,Camioneta,Negro,2004,Colisión
+393,5,Junio,Viernes,12,Jutiapa,Rural,Hombre,60,50-54,Mayor,Pick up,Verde,2004,Colisión
+502,23,Julio,Jueves,12,Santa Rosa,Rural,Hombre,54,45-49,Mayor,Camión,Ignorado,2005,Empotro
+555,14,Agosto,Viernes,12,Zacapa,Rural,Mujer,62,50-54,Mayor,Automovil,Ignorado,2005,Colisión
+632,14,Agosto,Viernes,12,Zacapa,Rural,Mujer,62,50-54,Mayor,Automovil,Ignorado,2005,Colisión
+362,19,Mayo,Martes,12,Escuintla,Rural,Hombre,54,45-49,Mayor,Motocicleta,Rojo,2007,Colisión
+363,19,Mayo,Martes,12,Escuintla,Rural,Hombre,23,30-34,Mayor,Motocicleta,Rojo,2007,Colisión
+163,4,Marzo,Miércoles,12,Guatemala,Urbano,Hombre,44,40-44,Mayor,Microbus,Blanco,2008,Colisión
+199,15,Marzo,Domingo,12,Retalhuleu,Rural,Hombre,20,30-34,Mayor,Pick up,Rojo,IGNORADO,Volco
+513,30,Julio,Jueves,12,Guatemala,Urbano,Mujer,6,15-19,Menor,Bus urbano,Rojo,IGNORADO,Empotro
+718,28,Septiembre,Lunes,12,Retalhuleu,Rural,Hombre,17,25-29,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+755,23,Octubre,Viernes,12,Sololá,Rural,Hombre,18,25-29,Mayor,Microbus,Rojo,IGNORADO,Colisión
+756,23,Octubre,Viernes,12,Sololá,Rural,Mujer,16,25-29,Menor,Microbus,Rojo,IGNORADO,Colisión
+757,23,Octubre,Viernes,12,Sololá,Rural,Mujer,12,20-24,Menor,Microbus,Rojo,IGNORADO,Colisión
+853,21,Diciembre,Lunes,12,Alta Verapaz,Rural,Hombre,27,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+205,18,Marzo,Miércoles,12,Jutiapa,Rural,Hombre,33,35-39,Mayor,Cabezal,Blanco,IGNORADO,Colisión
+282,16,Abril,Jueves,12,Quiché,Rural,Hombre,21,30-34,Mayor,Camión,Blanco,IGNORADO,Volco
+504,25,Julio,Sábado,12,Petén,Rural,Hombre,57,50-54,Mayor,Pick up,Blanco,IGNORADO,Volco
+151,1,Marzo,Domingo,12,Jutiapa,Rural,Hombre,20,30-34,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+228,28,Marzo,Sábado,12,Huehutenango,Rural,Hombre,50,45-49,Mayor,Motocicleta,Azul,IGNORADO,Embarranco
+35,16,Enero,Viernes,12,Guatemala,Rural,Hombre,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+44,19,Enero,Domingo,12,Sololá,Rural,Hombre,58,50-54,Mayor,Mototaxi,Ignorado,IGNORADO,Volco
+127,22,Febrero,Domingo,12,Santa Rosa,Rural,Mujer,62,50-54,Mayor,Camioneta,Ignorado,IGNORADO,Colisión
+128,22,Febrero,Domingo,12,Santa Rosa,Rural,Mujer,62,50-54,Mayor,Camioneta,Ignorado,IGNORADO,Colisión
+129,22,Febrero,Domingo,12,Santa Rosa,Rural,Hombre,1,Menos de 15,Menor,Camioneta,Ignorado,IGNORADO,Colisión
+130,22,Febrero,Domingo,12,Santa Rosa,Rural,Hombre,80,55 y más,Mayor,Camioneta,Ignorado,IGNORADO,Colisión
+409,11,Junio,Jueves,12,Izabal,Rural,Hombre,2,Menos de 15,Menor,Bus extraurbano,Ignorado,IGNORADO,Embarranco
+560,15,Agosto,Sábado,12,Escuintla,Rural,Hombre,3,Menos de 15,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+637,15,Agosto,Sábado,12,Escuintla,Rural,Hombre,3,Menos de 15,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+497,20,Julio,Lunes,13,Huehutenango,Rural,Hombre,58,50-54,Mayor,Pick up,Gris,1985,Volco
+226,28,Marzo,Sábado,13,Jutiapa,Rural,Hombre,65,55 y más,Mayor,Automovil,Verde,1987,Colisión
+227,28,Marzo,Sábado,13,Jutiapa,Rural,Hombre,72,55 y más,Mayor,Automovil,Verde,1987,Colisión
+818,6,Diciembre,Domingo,13,Huehutenango,Rural,Mujer,19,25-29,Mayor,Pick up,Gris,1992,Volco
+338,7,Mayo,Jueves,13,Zacapa,Rural,Hombre,39,40-44,Mayor,Automovil,Turqueza,1992,Colisión
+339,7,Mayo,Jueves,13,Zacapa,Rural,Mujer,75,55 y más,Mayor,Automovil,Turqueza,1992,Colisión
+340,7,Mayo,Jueves,13,Zacapa,Rural,Mujer,68,55 y más,Mayor,Automovil,Turqueza,1992,Colisión
+425,17,Junio,Miércoles,13,Petén,Rural,Hombre,19,25-29,Mayor,Automovil,Blanco,1995,Colisión
+426,17,Junio,Miércoles,13,Petén,Rural,Hombre,16,25-29,Menor,Automovil,Blanco,1995,Colisión
+427,17,Junio,Miércoles,13,Petén,Rural,Mujer,14,20-24,Menor,Automovil,Blanco,1995,Colisión
+428,17,Junio,Miércoles,13,Petén,Rural,Mujer,17,25-29,Menor,Automovil,Blanco,1995,Colisión
+65,30,Enero,Viernes,13,Guatemala,Rural,Hombre,41,40-44,Mayor,Automovil,Beige,2001,Colisión
+651,22,Agosto,Sábado,13,Suchitepéquez,Urbano,Hombre,25,35-39,Mayor,Motocicleta,Gris,2006,Colisión
+290,19,Abril,Domingo,13,Sacatepéquez,Rural,Hombre,40,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+149,1,Marzo,Domingo,13,Guatemala,Rural,Hombre,24,30-34,Mayor,Camioneta,Blanco,IGNORADO,Colisión
+150,1,Marzo,Domingo,13,Guatemala,Rural,Mujer,11,20-24,Menor,Camioneta,Blanco,IGNORADO,Colisión
+349,12,Mayo,Martes,13,Guatemala,Rural,Hombre,64,50-54,Mayor,Pick up,Blanco,IGNORADO,Colisión
+109,16,Febrero,Lunes,13,Sacatepéquez,Rural,Hombre,32,35-39,Mayor,Pick up,Gris,IGNORADO,Colisión
+209,20,Marzo,Viernes,13,Escuintla,Rural,Hombre,29,35-39,Mayor,Cabezal,Gris,IGNORADO,Volco
+183,8,Marzo,Domingo,13,Escuintla,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+304,23,Abril,Jueves,13,Alta Verapaz,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+678,4,Septiembre,Viernes,13,Petén,Rural,Mujer,33,35-39,Mayor,Camioneta,Negro,IGNORADO,Empotro
+719,29,Septiembre,Martes,13,San Marcos,Rural,Hombre,24,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+754,22,Octubre,Jueves,13,Suchitepéquez,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+723,3,Octubre,Sábado,13,Escuintla,Rural,Hombre,31,35-39,Mayor,Pick up,Verde,IGNORADO,Volco
+117,21,Febrero,Sábado,13,Quetzaltenango,Rural,Mujer,18,25-29,Mayor,Motocicleta,Amarillo,IGNORADO,Colisión
+118,21,Febrero,Sábado,13,Quetzaltenango,Rural,Hombre,6,15-19,Menor,Motocicleta,Amarillo,IGNORADO,Colisión
+108,16,Febrero,Lunes,13,Guatemala,Urbano,Hombre,40,40-44,Mayor,Automovil,Corinto,IGNORADO,Embarranco
+370,25,Mayo,Lunes,13,Suchitepéquez,Rural,Hombre,25,35-39,Mayor,Motocicleta,Corinto,IGNORADO,Colisión
+68,1,Febrero,Domingo,13,Zacapa,Rural,Hombre,28,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+203,16,Marzo,Lunes,13,Suchitepéquez,Urbano,Hombre,48,45-49,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+326,2,Mayo,Sábado,13,Escuintla,Rural,Hombre,6,15-19,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+675,2,Septiembre,Miércoles,14,Quiché,Rural,Hombre,38,40-44,Mayor,Pick up,Amarillo,1982,Volco
+843,19,Diciembre,Sábado,14,Guatemala,Rural,Hombre,55,50-54,Mayor,Bus extraurbano,Blanco,1983,Embarranco
+787,17,Noviembre,Martes,14,Quiché,Rural,Hombre,24,30-34,Mayor,Pick up,Blanco,1985,Embarranco
+171,7,Marzo,Sábado,14,Petén,Rural,Hombre,28,35-39,Mayor,Pick up,Negro,1988,Empotro
+54,25,Enero,Domingo,14,Baja Verapaz,Rural,Mujer,7,15-19,Menor,Pick up,Gris,1991,Empotro
+423,17,Junio,Miércoles,14,Zacapa,Rural,Hombre,31,35-39,Mayor,Automovil,Negro,2000,Empotro
+691,15,Septiembre,Martes,14,Zacapa,Rural,Hombre,78,55 y más,Mayor,Pick up,Azul,2008,Volco
+278,14,Abril,Martes,14,Baja Verapaz,Rural,Hombre,72,55 y más,Mayor,Pick up,Blanco,IGNORADO,Volco
+430,20,Junio,Sábado,14,Zacapa,Rural,Hombre,32,35-39,Mayor,Automovil,Blanco,IGNORADO,Volco
+841,17,Diciembre,Jueves,14,Quiché,Rural,Hombre,17,25-29,Menor,Camión,Blanco,IGNORADO,Volco
+360,19,Mayo,Martes,14,Chiquimula,Rural,Hombre,51,45-49,Mayor,Automovil,Azul,IGNORADO,Colisión
+464,3,Julio,Viernes,14,Suchitepéquez,Rural,Mujer,35,40-44,Mayor,Automovil,Azul,IGNORADO,Empotro
+465,3,Julio,Viernes,14,Suchitepéquez,Rural,Hombre,4,Menos de 15,Menor,Automovil,Azul,IGNORADO,Empotro
+499,22,Julio,Miércoles,14,Chimaltenango,Rural,Mujer,56,50-54,Mayor,Pick up,Azul,IGNORADO,Volco
+500,22,Julio,Miércoles,14,Chimaltenango,Rural,Mujer,45,45-49,Mayor,Pick up,Azul,IGNORADO,Volco
+501,22,Julio,Miércoles,14,Chimaltenango,Rural,Mujer,82,55 y más,Mayor,Pick up,Azul,IGNORADO,Volco
+216,22,Marzo,Domingo,14,Guatemala,Urbano,Hombre,25,35-39,Mayor,Automovil,Gris,IGNORADO,Empotro
+289,19,Abril,Domingo,14,Quetzaltenango,Rural,Mujer,40,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+851,21,Diciembre,Lunes,14,Alta Verapaz,Rural,Mujer,65,55 y más,Mayor,Automovil,Gris,IGNORADO,Colisión
+852,21,Diciembre,Lunes,14,Alta Verapaz,Rural,Mujer,9,15-19,Menor,Automovil,Gris,IGNORADO,Colisión
+281,16,Abril,Jueves,14,Izabal,Rural,Mujer,30,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+342,8,Mayo,Viernes,14,Huehutenango,Urbano,Hombre,22,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+215,22,Marzo,Domingo,14,Izabal,Rural,Mujer,53,45-49,Mayor,Microbus,Verde,IGNORADO,Colisión
+548,8,Agosto,Sábado,14,Sololá,Rural,Mujer,33,35-39,Mayor,Automovil,Corinto,IGNORADO,Embarranco
+625,8,Agosto,Sábado,14,Sololá,Rural,Mujer,33,35-39,Mayor,Automovil,Corinto,IGNORADO,Embarranco
+139,27,Febrero,Viernes,14,Guatemala,Urbano,Hombre,35,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+176,8,Marzo,Domingo,14,Huehutenango,Rural,Hombre,48,45-49,Mayor,Pick up,Ignorado,IGNORADO,Volco
+311,25,Abril,Sábado,14,Quiché,Rural,Hombre,81,55 y más,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+462,2,Julio,Jueves,14,Petén,Rural,Hombre,73,55 y más,Mayor,Camioneta,Ignorado,IGNORADO,Volco
+531,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,19,25-29,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+532,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+533,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,16,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+534,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+584,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,19,25-29,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+585,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+586,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,16,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+587,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+608,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,19,25-29,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+609,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+610,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,16,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+611,3,Agosto,Lunes,14,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Automovil,Ignorado,IGNORADO,Colisión
+750,20,Octubre,Martes,14,Sacatepéquez,Rural,Hombre,28,35-39,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+751,20,Octubre,Martes,14,Sacatepéquez,Rural,Mujer,45,45-49,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+152,1,Marzo,Domingo,15,Sacatepéquez,Rural,Hombre,21,30-34,Mayor,Pick up,Azul,1983,Colisión
+153,1,Marzo,Domingo,15,Sacatepéquez,Rural,Hombre,25,35-39,Mayor,Pick up,Azul,1983,Colisión
+650,21,Agosto,Viernes,15,Izabal,Rural,Hombre,55,50-54,Mayor,Automovil,Gris,1985,Colisión
+213,22,Marzo,Domingo,15,Totonicapán,Rural,Hombre,28,35-39,Mayor,Pick up,Ignorado,1987,Volco
+214,22,Marzo,Domingo,15,Totonicapán,Rural,Hombre,25,35-39,Mayor,Pick up,Ignorado,1987,Volco
+703,23,Septiembre,Miércoles,15,Quetzaltenango,Rural,Hombre,30,35-39,Mayor,Camión,Blanco,1990,Empotro
+260,11,Abril,Sábado,15,Zacapa,Rural,Hombre,21,30-34,Mayor,Automovil,Rojo,1992,Colisión
+671,1,Septiembre,Martes,15,San Marcos,Rural,Mujer,47,45-49,Mayor,Pick up,Rojo,1993,Empotro
+672,1,Septiembre,Martes,15,San Marcos,Rural,Mujer,23,30-34,Mayor,Pick up,Rojo,1993,Empotro
+542,6,Agosto,Jueves,15,El Progreso,Rural,Hombre,31,35-39,Mayor,Bus extraurbano,Blanco,1993,Colisión
+595,6,Agosto,Jueves,15,El Progreso,Rural,Hombre,31,35-39,Mayor,Bus extraurbano,Blanco,1993,Colisión
+619,6,Agosto,Jueves,15,El Progreso,Rural,Hombre,31,35-39,Mayor,Bus extraurbano,Blanco,1993,Colisión
+8,1,Enero,Jueves,15,Chimaltenango,Rural,Hombre,27,35-39,Mayor,Automovil,Blanco,1995,Colisión
+9,1,Enero,Jueves,15,Chimaltenango,Rural,Hombre,24,30-34,Mayor,Automovil,Blanco,1995,Colisión
+740,14,Octubre,Miércoles,15,Suchitepéquez,Rural,Hombre,26,35-39,Mayor,Automovil,Negro,1995,Colisión
+286,18,Abril,Sábado,15,Chiquimula,Rural,Mujer,48,45-49,Mayor,Pick up,Ignorado,2000,Volco
+287,18,Abril,Sábado,15,Chiquimula,Rural,Hombre,30,35-39,Mayor,Pick up,Ignorado,2000,Volco
+131,22,Febrero,Domingo,15,Jutiapa,Rural,Hombre,30,35-39,Mayor,Pick up,Blanco,2003,Colisión
+484,11,Julio,Sábado,15,El Progreso,Rural,Hombre,24,30-34,Mayor,Motocicleta,Negro,2006,Colisión
+498,20,Julio,Lunes,15,Sololá,Rural,Hombre,54,45-49,Mayor,Motocicleta,Rojo,2007,Colisión
+394,5,Junio,Viernes,15,Petén,Rural,Hombre,20,30-34,Mayor,Pick up,Verde,2007,Volco
+455,29,Junio,Lunes,15,Quetzaltenango,Rural,Hombre,20,30-34,Mayor,Motocicleta,Rojo,2008,Colisión
+882,30,Diciembre,Miércoles,15,Zacapa,Rural,Hombre,37,40-44,Mayor,Automovil,Blanco,2008,Colisión
+883,30,Diciembre,Miércoles,15,Zacapa,Rural,Mujer,45,45-49,Mayor,Automovil,Blanco,2008,Colisión
+348,11,Mayo,Lunes,15,Sacatepéquez,Rural,Hombre,34,35-39,Mayor,Pick up,Rojo,IGNORADO,Colisión
+518,31,Julio,Viernes,15,Guatemala,Urbano,Hombre,25,35-39,Mayor,Automovil,Rojo,IGNORADO,Colisión
+552,11,Agosto,Martes,15,Petén,Rural,Hombre,40,40-44,Mayor,Pick up,Rojo,IGNORADO,Volco
+629,11,Agosto,Martes,15,Petén,Rural,Hombre,40,40-44,Mayor,Pick up,Rojo,IGNORADO,Volco
+81,6,Febrero,Viernes,15,El Progreso,Rural,Hombre,55,50-54,Mayor,Cabezal,Blanco,IGNORADO,Embarranco
+507,26,Julio,Domingo,15,Sololá,Rural,Hombre,26,35-39,Mayor,Pick up,Blanco,IGNORADO,Colisión
+516,31,Julio,Viernes,15,Quiché,Rural,Hombre,20,30-34,Mayor,Camión,Blanco,IGNORADO,Empotro
+536,3,Agosto,Lunes,15,Huehutenango,Rural,Mujer,35,40-44,Mayor,Microbus,Blanco,IGNORADO,Colisión
+589,3,Agosto,Lunes,15,Huehutenango,Rural,Mujer,35,40-44,Mayor,Microbus,Blanco,IGNORADO,Colisión
+613,3,Agosto,Lunes,15,Huehutenango,Rural,Mujer,35,40-44,Mayor,Microbus,Blanco,IGNORADO,Colisión
+653,23,Agosto,Domingo,15,San Marcos,Rural,Hombre,14,20-24,Menor,Pick up,Blanco,IGNORADO,Volco
+725,4,Octubre,Domingo,15,Alta Verapaz,Rural,Hombre,59,50-54,Mayor,Camión,Blanco,IGNORADO,Embarranco
+836,14,Diciembre,Lunes,15,Quetzaltenango,Rural,Hombre,52,45-49,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+680,6,Septiembre,Domingo,15,Guatemala,Urbano,Hombre,30,35-39,Mayor,Automovil,Gris,IGNORADO,Empotro
+211,21,Marzo,Sábado,15,Izabal,Rural,Hombre,34,35-39,Mayor,Pick up,Verde,IGNORADO,Volco
+528,2,Agosto,Domingo,15,Quetzaltenango,Rural,Mujer,88,55 y más,Mayor,Pick up,Verde,IGNORADO,Empotro
+544,7,Agosto,Viernes,15,Petén,Rural,Hombre,54,45-49,Mayor,Camioneta,Verde,IGNORADO,Colisión
+581,2,Agosto,Domingo,15,Quetzaltenango,Rural,Mujer,88,55 y más,Mayor,Pick up,Verde,IGNORADO,Empotro
+605,2,Agosto,Domingo,15,Quetzaltenango,Rural,Mujer,88,55 y más,Mayor,Pick up,Verde,IGNORADO,Empotro
+621,7,Agosto,Viernes,15,Petén,Rural,Hombre,54,45-49,Mayor,Camioneta,Verde,IGNORADO,Colisión
+193,13,Marzo,Viernes,15,Santa Rosa,Rural,Hombre,24,30-34,Mayor,Automovil,Amarillo,IGNORADO,Colisión
+270,12,Abril,Domingo,15,Jutiapa,Rural,Mujer,35,40-44,Mayor,Camioneta,Corinto,IGNORADO,Colisión
+736,10,Octubre,Sábado,15,Quetzaltenango,Rural,Mujer,74,55 y más,Mayor,Pick up,Beige,IGNORADO,Colisión
+55,26,Enero,Lunes,15,Guatemala,Rural,Hombre,36,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+120,21,Febrero,Sábado,15,Izabal,Rural,Mujer,53,45-49,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+687,12,Septiembre,Sábado,15,Izabal,Rural,Hombre,18,25-29,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+778,7,Noviembre,Sábado,15,Izabal,Rural,Hombre,50,45-49,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+779,7,Noviembre,Sábado,15,Izabal,Rural,Hombre,9,15-19,Menor,Ignorado,Ignorado,IGNORADO,Volco
+177,8,Marzo,Domingo,16,Alta Verapaz,Rural,Hombre,12,20-24,Menor,Pick up,Azul,1971,Volco
+440,22,Junio,Lunes,16,Alta Verapaz,Rural,Mujer,65,55 y más,Mayor,Pick up,Beige,1984,Volco
+441,22,Junio,Lunes,16,Alta Verapaz,Rural,Mujer,18,25-29,Mayor,Pick up,Beige,1984,Volco
+7,1,Enero,Jueves,16,Retalhuleu,Rural,Hombre,19,25-29,Mayor,Pick up,Rojo,1986,Volco
+14,3,Enero,Sábado,16,Chiquimula,Rural,Mujer,54,45-49,Mayor,Camioneta,Azul,1989,Volco
+15,3,Enero,Sábado,16,Chiquimula,Rural,Hombre,17,25-29,Menor,Camioneta,Azul,1989,Volco
+310,25,Abril,Sábado,16,Baja Verapaz,Rural,Hombre,32,35-39,Mayor,Camión,Blanco,1992,Colisión
+435,20,Junio,Sábado,16,Quetzaltenango,Urbano,Hombre,62,50-54,Mayor,Pick up,Ignorado,1994,Colisión
+368,24,Mayo,Domingo,16,San Marcos,Rural,Hombre,21,30-34,Mayor,Microbus,Blanco,2000,Colisión
+689,13,Septiembre,Domingo,16,Guatemala,Urbano,Mujer,7,15-19,Menor,Automovil,Azul,2000,Volco
+763,25,Octubre,Domingo,16,El Progreso,Rural,Mujer,25,35-39,Mayor,Camioneta,Anaranjado,2004,Colisión
+369,24,Mayo,Domingo,16,Petén,Rural,Hombre,26,35-39,Mayor,Camión,Rojo,IGNORADO,Volco
+105,15,Febrero,Domingo,16,Zacapa,Rural,Hombre,45,45-49,Mayor,Automovil,Blanco,IGNORADO,Empotro
+334,4,Mayo,Lunes,16,Petén,Rural,Hombre,41,40-44,Mayor,Pick up,Blanco,IGNORADO,Volco
+162,3,Marzo,Martes,16,Escuintla,Rural,Hombre,40,40-44,Mayor,Pick up,Azul,IGNORADO,Volco
+91,11,Febrero,Miércoles,16,Guatemala,Rural,Hombre,45,45-49,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+173,8,Marzo,Domingo,16,Escuintla,Rural,Hombre,38,40-44,Mayor,Automovil,Negro,IGNORADO,Embarranco
+206,18,Marzo,Miércoles,16,Suchitepéquez,Rural,Hombre,29,35-39,Mayor,Camioneta,Negro,IGNORADO,Colisión
+257,10,Abril,Viernes,16,Guatemala,Urbano,Hombre,42,40-44,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+321,29,Abril,Miércoles,16,Chiquimula,Rural,Hombre,54,45-49,Mayor,Pick up,Negro,IGNORADO,Empotro
+329,2,Mayo,Sábado,16,El Progreso,Rural,Hombre,32,35-39,Mayor,Automovil,Negro,IGNORADO,Colisión
+539,3,Agosto,Lunes,16,Chimaltenango,Rural,Mujer,5,15-19,Menor,Pick up,Negro,IGNORADO,Colisión
+592,3,Agosto,Lunes,16,Chimaltenango,Rural,Mujer,5,15-19,Menor,Pick up,Negro,IGNORADO,Colisión
+616,3,Agosto,Lunes,16,Chimaltenango,Rural,Mujer,5,15-19,Menor,Pick up,Negro,IGNORADO,Colisión
+709,25,Septiembre,Viernes,16,Sacatepéquez,Rural,Hombre,35,40-44,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+874,28,Diciembre,Lunes,16,Guatemala,Urbano,Hombre,16,25-29,Menor,Motocicleta,Negro,IGNORADO,Colisión
+235,31,Marzo,Martes,16,Santa Rosa,Rural,Hombre,37,40-44,Mayor,Camión,Verde,IGNORADO,Embarranco
+236,31,Marzo,Martes,16,Santa Rosa,Rural,Hombre,40,40-44,Mayor,Camión,Verde,IGNORADO,Embarranco
+398,6,Junio,Sábado,16,Suchitepéquez,Rural,Hombre,18,25-29,Mayor,Bus extraurbano,Verde,IGNORADO,Volco
+508,28,Julio,Martes,16,Escuintla,Rural,Hombre,10,20-24,Menor,Automovil,Verde,IGNORADO,Colisión
+97,13,Febrero,Viernes,16,Suchitepéquez,Rural,Hombre,19,25-29,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+167,5,Marzo,Jueves,16,Totonicapán,Rural,Hombre,24,30-34,Mayor,Pick up,Ignorado,IGNORADO,Empotro
+191,13,Marzo,Viernes,16,Guatemala,Rural,Hombre,19,25-29,Mayor,Pick up,Ignorado,IGNORADO,Volco
+470,6,Julio,Lunes,16,Quiché,Rural,Mujer,35,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+523,1,Agosto,Sábado,16,Guatemala,Urbano,Hombre,23,30-34,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+576,1,Agosto,Sábado,16,Guatemala,Urbano,Hombre,23,30-34,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+600,1,Agosto,Sábado,16,Guatemala,Urbano,Hombre,23,30-34,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+828,9,Diciembre,Miércoles,16,Chiquimula,Rural,Hombre,12,20-24,Menor,Automovil,Ignorado,IGNORADO,Colisión
+845,20,Diciembre,Domingo,16,Guatemala,Rural,Hombre,27,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Embarranco
+668,31,Agosto,Lunes,17,Escuintla,Urbano,Mujer,20,30-34,Mayor,Pick up,Azul,IGNORADO,Colisión
+669,31,Agosto,Lunes,17,Escuintla,Urbano,Mujer,59,50-54,Mayor,Pick up,Azul,IGNORADO,Colisión
+670,31,Agosto,Lunes,17,Escuintla,Urbano,Mujer,1,Menos de 15,Menor,Pick up,Azul,IGNORADO,Colisión
+855,22,Diciembre,Martes,17,Quetzaltenango,Rural,Hombre,27,35-39,Mayor,Bus extraurbano,Rojo,1984,Empotro
+856,22,Diciembre,Martes,17,Quetzaltenango,Rural,Hombre,54,45-49,Mayor,Bus extraurbano,Rojo,1984,Empotro
+857,22,Diciembre,Martes,17,Quetzaltenango,Rural,Hombre,26,35-39,Mayor,Bus extraurbano,Rojo,1984,Empotro
+858,22,Diciembre,Martes,17,Quetzaltenango,Rural,Hombre,70,55 y más,Mayor,Bus extraurbano,Rojo,1984,Empotro
+859,22,Diciembre,Martes,17,Quetzaltenango,Rural,Mujer,5,15-19,Menor,Bus extraurbano,Rojo,1984,Empotro
+391,4,Junio,Jueves,17,Chiquimula,Rural,Hombre,37,40-44,Mayor,Pick up,Rojo,1991,Colisión
+884,31,Diciembre,Jueves,17,Escuintla,Rural,Hombre,23,30-34,Mayor,Automovil,Beige,1994,Volco
+658,26,Agosto,Miércoles,17,Guatemala,Urbano,Hombre,45,45-49,Mayor,Motocicleta,Blanco,2000,Colisión
+867,27,Diciembre,Domingo,17,El Progreso,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,2006,Colisión
+509,28,Julio,Martes,17,Sacatepéquez,Rural,Hombre,38,40-44,Mayor,Motocicleta,Azul,2006,Colisión
+27,13,Enero,Martes,17,Izabal,Rural,Hombre,23,30-34,Mayor,Motocicleta,Azul,2007,Colisión
+184,9,Marzo,Lunes,17,Escuintla,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+318,26,Abril,Domingo,17,Alta Verapaz,Rural,Mujer,61,50-54,Mayor,Pick up,Rojo,IGNORADO,Colisión
+319,26,Abril,Domingo,17,Alta Verapaz,Rural,Mujer,44,40-44,Mayor,Pick up,Rojo,IGNORADO,Colisión
+521,1,Agosto,Sábado,17,Sacatepéquez,Rural,Hombre,41,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+547,8,Agosto,Sábado,17,Suchitepéquez,Rural,Hombre,37,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Volco
+559,15,Agosto,Sábado,17,Quiché,Rural,Hombre,30,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+574,1,Agosto,Sábado,17,Sacatepéquez,Rural,Hombre,41,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+598,1,Agosto,Sábado,17,Sacatepéquez,Rural,Hombre,41,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+624,8,Agosto,Sábado,17,Suchitepéquez,Rural,Hombre,37,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Volco
+636,15,Agosto,Sábado,17,Quiché,Rural,Hombre,30,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+279,15,Abril,Miércoles,17,Sololá,Rural,Hombre,68,55 y más,Mayor,Camioneta,Blanco,IGNORADO,Volco
+333,4,Mayo,Lunes,17,Escuintla,Rural,Hombre,42,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+335,6,Mayo,Miércoles,17,Izabal,Rural,Hombre,17,25-29,Menor,Camión,Blanco,IGNORADO,Colisión
+336,6,Mayo,Miércoles,17,Izabal,Rural,Hombre,50,45-49,Mayor,Camión,Blanco,IGNORADO,Colisión
+545,8,Agosto,Sábado,17,Guatemala,Rural,Hombre,26,35-39,Mayor,Cabezal,Blanco,IGNORADO,Empotro
+622,8,Agosto,Sábado,17,Guatemala,Rural,Hombre,26,35-39,Mayor,Cabezal,Blanco,IGNORADO,Empotro
+799,25,Noviembre,Miércoles,17,Sololá,Rural,Hombre,12,20-24,Menor,Pick up,Blanco,IGNORADO,Colisión
+811,4,Diciembre,Viernes,17,Quetzaltenango,Rural,Mujer,18,25-29,Mayor,Pick up,Blanco,IGNORADO,Colisión
+812,4,Diciembre,Viernes,17,Quetzaltenango,Rural,Mujer,50,45-49,Mayor,Pick up,Blanco,IGNORADO,Colisión
+302,21,Abril,Martes,17,Guatemala,Rural,Hombre,27,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+306,24,Abril,Viernes,17,Escuintla,Rural,Mujer,39,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+307,24,Abril,Viernes,17,Escuintla,Rural,Mujer,11,20-24,Menor,Automovil,Gris,IGNORADO,Colisión
+571,20,Agosto,Jueves,17,Retalhuleu,Rural,Hombre,25,35-39,Mayor,Automovil,Gris,IGNORADO,Colisión
+648,20,Agosto,Jueves,17,Retalhuleu,Rural,Hombre,25,35-39,Mayor,Automovil,Gris,IGNORADO,Colisión
+39,17,Enero,Sábado,17,Escuintla,Rural,Hombre,29,35-39,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+186,9,Marzo,Lunes,17,Guatemala,Urbano,Hombre,21,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+432,20,Junio,Sábado,17,Suchitepéquez,Rural,Hombre,34,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+768,30,Octubre,Viernes,17,Guatemala,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+327,2,Mayo,Sábado,17,Escuintla,Rural,Hombre,59,50-54,Mayor,Automovil,Verde,IGNORADO,Colisión
+328,2,Mayo,Sábado,17,Escuintla,Rural,Mujer,14,20-24,Menor,Automovil,Verde,IGNORADO,Colisión
+359,18,Mayo,Lunes,17,Retalhuleu,Rural,Hombre,35,40-44,Mayor,Camioneta,Verde,IGNORADO,Empotro
+505,26,Julio,Domingo,17,Santa Rosa,Rural,Hombre,32,35-39,Mayor,Camioneta,Verde,IGNORADO,Colisión
+506,26,Julio,Domingo,17,Santa Rosa,Rural,Hombre,46,45-49,Mayor,Camioneta,Verde,IGNORADO,Colisión
+200,15,Marzo,Domingo,17,Guatemala,Urbano,Hombre,28,35-39,Mayor,Automovil,Corinto,IGNORADO,Empotro
+201,15,Marzo,Domingo,17,Guatemala,Urbano,Mujer,39,40-44,Mayor,Automovil,Corinto,IGNORADO,Empotro
+549,10,Agosto,Lunes,17,Zacapa,Rural,Hombre,31,35-39,Mayor,Pick up,Corinto,IGNORADO,Colisión
+626,10,Agosto,Lunes,17,Zacapa,Rural,Hombre,31,35-39,Mayor,Pick up,Corinto,IGNORADO,Colisión
+797,24,Noviembre,Martes,17,Baja Verapaz,Rural,Hombre,38,40-44,Mayor,Pick up,Corinto,IGNORADO,Embarranco
+11,2,Enero,Viernes,17,Izabal,Rural,Hombre,21,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+156,2,Marzo,Lunes,17,Suchitepéquez,Urbano,Hombre,43,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+157,2,Marzo,Lunes,17,Suchitepéquez,Urbano,Mujer,23,30-34,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+221,24,Marzo,Martes,17,Sacatepéquez,Rural,Hombre,19,25-29,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+222,24,Marzo,Martes,17,Sacatepéquez,Rural,Mujer,18,25-29,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+343,8,Mayo,Viernes,17,Izabal,Rural,Ignorado,Ignorado,Ignorado,Ignorado,Automovil,Ignorado,IGNORADO,Colisión
+344,8,Mayo,Viernes,17,Izabal,Rural,Ignorado,Ignorado,Ignorado,Ignorado,Automovil,Ignorado,IGNORADO,Colisión
+345,8,Mayo,Viernes,17,Izabal,Rural,Ignorado,Ignorado,Ignorado,Ignorado,Automovil,Ignorado,IGNORADO,Colisión
+773,3,Noviembre,Martes,18,Totonicapán,Rural,Hombre,42,40-44,Mayor,Pick up,Rojo,1984,Volco
+572,20,Agosto,Jueves,18,Sololá,Rural,Hombre,70,55 y más,Mayor,Camión,Blanco,1999,Colisión
+649,20,Agosto,Jueves,18,Sololá,Rural,Hombre,70,55 y más,Mayor,Camión,Blanco,1999,Colisión
+365,20,Mayo,Miércoles,18,Huehutenango,Rural,Hombre,63,50-54,Mayor,Camioneta,Gris,2004,Colisión
+16,3,Enero,Sábado,18,Suchitepéquez,Rural,Hombre,40,40-44,Mayor,Motocicleta,Azul,2008,Colisión
+137,26,Febrero,Jueves,18,Jalapa,Rural,Hombre,15,25-29,Menor,Automovil,Rojo,IGNORADO,Embarranco
+276,14,Abril,Martes,18,Huehutenango,Rural,Hombre,34,35-39,Mayor,Pick up,Rojo,IGNORADO,Volco
+331,3,Mayo,Domingo,18,Chimaltenango,Rural,Hombre,20,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+471,7,Julio,Martes,18,Chiquimula,Rural,Mujer,38,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+17,3,Enero,Sábado,18,Petén,Rural,Hombre,58,50-54,Mayor,Camioneta,Blanco,IGNORADO,Colisión
+126,22,Febrero,Domingo,18,Escuintla,Rural,Hombre,24,30-34,Mayor,Automovil,Blanco,IGNORADO,Volco
+158,2,Marzo,Lunes,18,Suchitepéquez,Urbano,Hombre,20,30-34,Mayor,Microbus,Blanco,IGNORADO,Colisión
+436,20,Junio,Sábado,18,Huehutenango,Rural,Mujer,45,45-49,Mayor,Pick up,Blanco,IGNORADO,Colisión
+786,16,Noviembre,Lunes,18,San Marcos,Rural,Mujer,28,35-39,Mayor,Automovil,Blanco,IGNORADO,Empotro
+89,9,Febrero,Lunes,18,Retalhuleu,Rural,Hombre,33,35-39,Mayor,Motocicleta,Azul,IGNORADO,Empotro
+450,27,Junio,Sábado,18,Guatemala,Urbano,Hombre,35,40-44,Mayor,Motocicleta,Azul,IGNORADO,Empotro
+696,18,Septiembre,Viernes,18,Izabal,Rural,Hombre,39,40-44,Mayor,Automovil,Azul,IGNORADO,Colisión
+739,13,Octubre,Martes,18,Chiquimula,Rural,Hombre,21,30-34,Mayor,Camión,Azul,IGNORADO,Colisión
+784,11,Noviembre,Miércoles,18,Sacatepéquez,Rural,Hombre,28,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+788,18,Noviembre,Miércoles,18,Zacapa,Rural,Hombre,50,45-49,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+487,16,Julio,Jueves,18,Izabal,Rural,Hombre,37,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+681,7,Septiembre,Lunes,18,Suchitepéquez,Rural,Hombre,33,35-39,Mayor,Pick up,Gris,IGNORADO,Colisión
+10,1,Enero,Jueves,18,Sacatepéquez,Rural,Hombre,26,35-39,Mayor,Automovil,Negro,IGNORADO,Colisión
+415,13,Junio,Sábado,18,Retalhuleu,Urbano,Hombre,36,40-44,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+483,11,Julio,Sábado,18,San Marcos,Rural,Mujer,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+865,25,Diciembre,Viernes,18,Guatemala,Urbano,Hombre,22,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+224,26,Marzo,Jueves,18,Jutiapa,Rural,Hombre,56,50-54,Mayor,Pick up,Corinto,IGNORADO,Volco
+144,28,Febrero,Sábado,18,Guatemala,Rural,Hombre,38,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+375,27,Mayo,Miércoles,18,Quiché,Rural,Hombre,8,15-19,Menor,Pick up,Ignorado,IGNORADO,Volco
+474,10,Julio,Viernes,18,Petén,Rural,Hombre,59,50-54,Mayor,Cabezal,Ignorado,IGNORADO,Embarranco
+537,3,Agosto,Lunes,18,Alta Verapaz,Rural,Hombre,33,35-39,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+590,3,Agosto,Lunes,18,Alta Verapaz,Rural,Hombre,33,35-39,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+614,3,Agosto,Lunes,18,Alta Verapaz,Rural,Hombre,33,35-39,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+770,1,Noviembre,Domingo,18,Zacapa,Rural,Hombre,20,30-34,Mayor,Ignorado,Ignorado,IGNORADO,Colisión
+819,6,Diciembre,Domingo,18,Chimaltenango,Rural,Hombre,35,40-44,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+831,12,Diciembre,Sábado,18,Guatemala,Urbano,Hombre,26,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+810,4,Diciembre,Viernes,19,Santa Rosa,Rural,Hombre,33,35-39,Mayor,Automovil,Gris,1988,Volco
+305,24,Abril,Viernes,19,Escuintla,Rural,Mujer,42,40-44,Mayor,Pick up,Gris,1991,Volco
+42,18,Enero,Domingo,19,Jutiapa,Rural,Hombre,28,35-39,Mayor,Pick up,Azul,1993,Colisión
+414,13,Junio,Sábado,19,Guatemala,Urbano,Hombre,40,40-44,Mayor,Bus urbano,Rojo,1994,Colisión
+659,27,Agosto,Jueves,19,Zacapa,Rural,Hombre,54,45-49,Mayor,Pick up,Gris,2004,Colisión
+317,26,Abril,Domingo,19,Chiquimula,Rural,Hombre,23,30-34,Mayor,Microbus,Verde,2004,Colisión
+154,1,Marzo,Domingo,19,Chimaltenango,Rural,Hombre,33,35-39,Mayor,Jeep,Azul,2006,Colisión
+374,26,Mayo,Martes,19,Quetzaltenango,Rural,Hombre,26,35-39,Mayor,Motocicleta,Rojo,2007,Colisión
+51,25,Enero,Domingo,19,Jalapa,Rural,Hombre,28,35-39,Mayor,Microbus,Ignorado,2007,Volco
+451,27,Junio,Sábado,19,Alta Verapaz,Rural,Hombre,24,30-34,Mayor,Motocicleta,Ignorado,2007,Colisión
+459,1,Julio,Miércoles,19,Guatemala,Urbano,Hombre,24,30-34,Mayor,Motocicleta,Azul,2008,Empotro
+314,26,Abril,Domingo,19,Chiquimula,Rural,Hombre,20,30-34,Mayor,Motocicleta,Negro,2008,Colisión
+12,2,Enero,Viernes,19,Petén,Rural,Hombre,42,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+159,2,Marzo,Lunes,19,Quetzaltenango,Urbano,Hombre,22,30-34,Mayor,Pick up,Rojo,IGNORADO,Empotro
+251,8,Abril,Miércoles,19,Escuintla,Rural,Hombre,25,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+325,2,Mayo,Sábado,19,Zacapa,Rural,Hombre,35,40-44,Mayor,Pick up,Rojo,IGNORADO,Colisión
+690,15,Septiembre,Martes,19,Retalhuleu,Rural,Hombre,28,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+693,16,Septiembre,Miércoles,19,Retalhuleu,Rural,Hombre,26,35-39,Mayor,Pick up,Rojo,IGNORADO,Empotro
+716,28,Septiembre,Lunes,19,Chimaltenango,Rural,Hombre,45,45-49,Mayor,Pick up,Rojo,IGNORADO,Colisión
+729,7,Octubre,Miércoles,19,Quetzaltenango,Rural,Hombre,17,25-29,Menor,Bus extraurbano,Rojo,IGNORADO,Colisión
+119,21,Febrero,Sábado,19,San Marcos,Rural,Hombre,50,45-49,Mayor,Camión,Blanco,IGNORADO,Embarranco
+322,29,Abril,Miércoles,19,El Progreso,Rural,Hombre,37,40-44,Mayor,Automovil,Blanco,IGNORADO,Colisión
+107,15,Febrero,Domingo,19,Huehutenango,Rural,Hombre,47,45-49,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+383,31,Mayo,Domingo,19,Escuintla,Rural,Mujer,20,30-34,Mayor,Pick up,Azul,IGNORADO,Volco
+519,31,Julio,Viernes,19,Izabal,Rural,Hombre,40,40-44,Mayor,Motocicleta,Azul,IGNORADO,Empotro
+700,21,Septiembre,Lunes,19,Baja Verapaz,Rural,Hombre,55,50-54,Mayor,Pick up,Azul,IGNORADO,Colisión
+701,21,Septiembre,Lunes,19,Baja Verapaz,Rural,Hombre,35,40-44,Mayor,Camión,Azul,IGNORADO,Colisión
+837,15,Diciembre,Martes,19,Totonicapán,Rural,Hombre,25,35-39,Mayor,Bus extraurbano,Azul,IGNORADO,Volco
+838,15,Diciembre,Martes,19,Totonicapán,Rural,Hombre,70,55 y más,Mayor,Bus extraurbano,Azul,IGNORADO,Volco
+875,28,Diciembre,Lunes,19,Quiché,Rural,Hombre,36,40-44,Mayor,Microbus,Azul,IGNORADO,Colisión
+876,28,Diciembre,Lunes,19,Quiché,Rural,Hombre,31,35-39,Mayor,Microbus,Azul,IGNORADO,Colisión
+877,28,Diciembre,Lunes,19,Quiché,Rural,Hombre,36,40-44,Mayor,Microbus,Azul,IGNORADO,Colisión
+878,28,Diciembre,Lunes,19,Quiché,Rural,Hombre,35,40-44,Mayor,Microbus,Azul,IGNORADO,Colisión
+879,28,Diciembre,Lunes,19,Quiché,Rural,Hombre,28,35-39,Mayor,Microbus,Azul,IGNORADO,Colisión
+444,24,Junio,Jueves,19,Escuintla,Rural,Hombre,54,45-49,Mayor,Pick up,Gris,IGNORADO,Colisión
+466,4,Julio,Sábado,19,Jutiapa,Rural,Hombre,39,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+553,12,Agosto,Miércoles,19,Petén,Rural,Hombre,26,35-39,Mayor,Pick up,Gris,IGNORADO,Colisión
+630,12,Agosto,Miércoles,19,Petén,Rural,Hombre,26,35-39,Mayor,Pick up,Gris,IGNORADO,Colisión
+82,7,Febrero,Sábado,19,Escuintla,Rural,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+467,4,Julio,Sábado,19,Jutiapa,Rural,Hombre,65,55 y más,Mayor,Automovil,Negro,IGNORADO,Colisión
+807,3,Diciembre,Jueves,19,Jutiapa,Rural,Hombre,43,40-44,Mayor,Pick up,Negro,IGNORADO,Empotro
+264,11,Abril,Sábado,19,Escuintla,Rural,Mujer,25,35-39,Mayor,Automovil,Verde,IGNORADO,Volco
+265,11,Abril,Sábado,19,Escuintla,Rural,Mujer,20,30-34,Mayor,Automovil,Verde,IGNORADO,Volco
+266,11,Abril,Sábado,19,Escuintla,Rural,Hombre,30,35-39,Mayor,Automovil,Verde,IGNORADO,Volco
+267,11,Abril,Sábado,19,Escuintla,Rural,Hombre,32,35-39,Mayor,Automovil,Verde,IGNORADO,Volco
+294,19,Abril,Domingo,19,Santa Rosa,Rural,Mujer,20,30-34,Mayor,Camioneta,Verde,IGNORADO,Colisión
+721,1,Octubre,Jueves,19,Alta Verapaz,Rural,Hombre,33,35-39,Mayor,Camión,Verde,IGNORADO,Embarranco
+722,1,Octubre,Jueves,19,Alta Verapaz,Rural,Hombre,35,40-44,Mayor,Camión,Verde,IGNORADO,Embarranco
+110,16,Febrero,Lunes,19,Santa Rosa,Rural,Hombre,20,30-34,Mayor,Motocicleta,Amarillo,IGNORADO,Colisión
+111,16,Febrero,Lunes,19,Santa Rosa,Rural,Hombre,14,20-24,Menor,Motocicleta,Amarillo,IGNORADO,Colisión
+112,16,Febrero,Lunes,19,Santa Rosa,Rural,Hombre,8,15-19,Menor,Motocicleta,Amarillo,IGNORADO,Colisión
+885,31,Diciembre,Jueves,19,Retalhuleu,Rural,Hombre,37,40-44,Mayor,Automovil,Amarillo,IGNORADO,Colisión
+886,31,Diciembre,Jueves,19,Retalhuleu,Rural,Hombre,23,30-34,Mayor,Automovil,Amarillo,IGNORADO,Colisión
+134,25,Febrero,Miércoles,19,Santa Rosa,Rural,Hombre,24,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+135,25,Febrero,Miércoles,19,Santa Rosa,Rural,Hombre,25,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+136,25,Febrero,Miércoles,19,Santa Rosa,Rural,Hombre,27,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+165,4,Marzo,Miércoles,19,Escuintla,Rural,Hombre,35,40-44,Mayor,Cabezal,Ignorado,IGNORADO,Volco
+233,30,Marzo,Lunes,19,Petén,Rural,Hombre,17,25-29,Menor,Motocicleta,Ignorado,IGNORADO,Empotro
+247,6,Abril,Lunes,19,Petén,Rural,Hombre,12,20-24,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+296,20,Abril,Lunes,19,Chimaltenango,Rural,Hombre,25,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+297,20,Abril,Lunes,19,Chimaltenango,Rural,Hombre,2,Menos de 15,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+298,20,Abril,Lunes,19,Chimaltenango,Rural,Mujer,8,15-19,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+388,2,Junio,Martes,19,Izabal,Rural,Hombre,Ignorado,Ignorado,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+730,8,Octubre,Jueves,19,Jutiapa,Rural,Hombre,33,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+744,17,Octubre,Sábado,19,Escuintla,Rural,Hombre,48,45-49,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+746,18,Octubre,Domingo,19,Izabal,Rural,Hombre,27,35-39,Mayor,Pick up,Ignorado,IGNORADO,Embarranco
+753,21,Octubre,Miércoles,19,Suchitepéquez,Rural,Hombre,32,35-39,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+460,1,Julio,Miércoles,20,Escuintla,Rural,Hombre,49,45-49,Mayor,Pick up,Verde,1997,Embarranco
+714,28,Septiembre,Lunes,20,Quetzaltenango,Urbano,Hombre,28,35-39,Mayor,Motocicleta,Negro,1999,Empotro
+522,1,Agosto,Sábado,20,Izabal,Rural,Hombre,47,45-49,Mayor,Motocicleta,Azul,2007,Empotro
+575,1,Agosto,Sábado,20,Izabal,Rural,Hombre,47,45-49,Mayor,Motocicleta,Azul,2007,Empotro
+599,1,Agosto,Sábado,20,Izabal,Rural,Hombre,47,45-49,Mayor,Motocicleta,Azul,2007,Empotro
+662,28,Agosto,Viernes,20,Escuintla,Rural,Hombre,22,30-34,Mayor,Motocicleta,Negro,2007,Colisión
+138,26,Febrero,Jueves,20,Izabal,Rural,Hombre,19,25-29,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+225,27,Marzo,Viernes,20,Chimaltenango,Rural,Hombre,38,40-44,Mayor,Automovil,Rojo,IGNORADO,Colisión
+386,2,Junio,Martes,20,Chiquimula,Rural,Hombre,19,25-29,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+424,17,Junio,Miércoles,20,Retalhuleu,Rural,Hombre,42,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+482,11,Julio,Sábado,20,Escuintla,Rural,Hombre,22,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+558,15,Agosto,Sábado,20,Retalhuleu,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+561,15,Agosto,Sábado,20,Chiquimula,Rural,Hombre,16,25-29,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+635,15,Agosto,Sábado,20,Retalhuleu,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+638,15,Agosto,Sábado,20,Chiquimula,Rural,Hombre,16,25-29,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+657,26,Agosto,Miércoles,20,Guatemala,Urbano,Mujer,28,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+726,5,Octubre,Lunes,20,Petén,Rural,Hombre,15,25-29,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+792,22,Noviembre,Domingo,20,Chiquimula,Rural,Hombre,21,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+793,22,Noviembre,Domingo,20,Chiquimula,Rural,Hombre,14,20-24,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+794,22,Noviembre,Domingo,20,Chiquimula,Rural,Hombre,19,25-29,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+248,7,Abril,Martes,20,Jutiapa,Rural,Hombre,37,40-44,Mayor,Camión,Blanco,IGNORADO,Volco
+782,8,Noviembre,Domingo,20,San Marcos,Rural,Hombre,28,35-39,Mayor,Motocicleta,Blanco,IGNORADO,Colisión
+198,15,Marzo,Domingo,20,Escuintla,Rural,Hombre,18,25-29,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+733,9,Octubre,Viernes,20,Guatemala,Rural,Hombre,19,25-29,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+783,9,Noviembre,Lunes,20,Huehutenango,Rural,Hombre,40,40-44,Mayor,Pick up,Azul,IGNORADO,Empotro
+798,25,Noviembre,Miércoles,20,Guatemala,Rural,Hombre,25,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+263,11,Abril,Sábado,20,Zacapa,Rural,Hombre,43,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+562,16,Agosto,Domingo,20,Izabal,Rural,Hombre,14,20-24,Menor,Pick up,Gris,IGNORADO,Volco
+639,16,Agosto,Domingo,20,Izabal,Rural,Hombre,14,20-24,Menor,Pick up,Gris,IGNORADO,Volco
+64,30,Enero,Viernes,20,El Progreso,Rural,Mujer,37,40-44,Mayor,Pick up,Negro,IGNORADO,Volco
+204,16,Marzo,Lunes,20,Guatemala,Urbano,Hombre,26,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+376,28,Mayo,Jueves,20,Guatemala,Urbano,Hombre,55,50-54,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+402,7,Junio,Domingo,20,Escuintla,Rural,Hombre,26,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+541,5,Agosto,Miércoles,20,Escuintla,Rural,Hombre,21,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+594,5,Agosto,Miércoles,20,Escuintla,Rural,Hombre,21,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+618,5,Agosto,Miércoles,20,Escuintla,Rural,Hombre,21,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+22,12,Enero,Lunes,20,Chimaltenango,Rural,Hombre,25,35-39,Mayor,Automovil,Verde,IGNORADO,Colisión
+125,22,Febrero,Domingo,20,San Marcos,Rural,Hombre,55,50-54,Mayor,Pick up,Verde,IGNORADO,Embarranco
+52,25,Enero,Domingo,20,Chiquimula,Rural,Mujer,31,35-39,Mayor,Motocicleta,Beige,IGNORADO,Colisión
+652,22,Agosto,Sábado,20,El Progreso,Rural,Mujer,28,35-39,Mayor,Automovil,Beige,IGNORADO,Colisión
+695,18,Septiembre,Viernes,20,Escuintla,Rural,Hombre,43,40-44,Mayor,Automovil,Beige,IGNORADO,Empotro
+36,16,Enero,Viernes,20,Zacapa,Rural,Hombre,31,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+85,7,Febrero,Sábado,20,Zacapa,Urbano,Hombre,27,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+155,2,Marzo,Lunes,20,Santa Rosa,Urbano,Hombre,40,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+346,9,Mayo,Sábado,20,San Marcos,Rural,Hombre,21,30-34,Mayor,Pick up,Ignorado,IGNORADO,Volco
+495,19,Julio,Domingo,20,Petén,Rural,Hombre,32,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+529,2,Agosto,Domingo,20,Zacapa,Rural,Hombre,36,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+530,2,Agosto,Domingo,20,Zacapa,Rural,Mujer,25,35-39,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+582,2,Agosto,Domingo,20,Zacapa,Rural,Hombre,36,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+583,2,Agosto,Domingo,20,Zacapa,Rural,Mujer,25,35-39,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+606,2,Agosto,Domingo,20,Zacapa,Rural,Hombre,36,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+607,2,Agosto,Domingo,20,Zacapa,Rural,Mujer,25,35-39,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+785,12,Noviembre,Jueves,21,Zacapa,Rural,Hombre,50,45-49,Mayor,Bus extraurbano,Verde,1988,Colisión
+87,8,Febrero,Domingo,21,Jutiapa,Rural,Hombre,40,40-44,Mayor,Pick up,Blanco,1992,Volco
+192,13,Marzo,Viernes,21,Escuintla,Rural,Hombre,38,40-44,Mayor,Automovil,Ignorado,1998,Colisión
+655,24,Agosto,Lunes,21,Santa Rosa,Rural,Mujer,60,50-54,Mayor,Camioneta,Blanco,2000,Colisión
+188,11,Marzo,Miércoles,21,Baja Verapaz,Rural,Hombre,24,30-34,Mayor,Motocicleta,Rojo,2003,Empotro
+817,6,Diciembre,Domingo,21,Zacapa,Rural,Mujer,46,45-49,Mayor,Motocicleta,Azul,2006,Empotro
+102,14,Febrero,Sábado,21,Zacapa,Rural,Hombre,29,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+106,15,Febrero,Domingo,21,Alta Verapaz,Urbano,Mujer,4,Menos de 15,Menor,Motocicleta,Rojo,IGNORADO,Colisión
+400,7,Junio,Domingo,21,Baja Verapaz,Rural,Hombre,20,30-34,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+515,30,Julio,Jueves,21,Retalhuleu,Urbano,Hombre,25,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+802,29,Noviembre,Domingo,21,Guatemala,Rural,Hombre,27,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+60,30,Enero,Viernes,21,Suchitepéquez,Rural,Hombre,30,35-39,Mayor,Motocicleta,Blanco,IGNORADO,Empotro
+123,22,Febrero,Domingo,21,Quetzaltenango,Urbano,Hombre,33,35-39,Mayor,Automovil,Blanco,IGNORADO,Colisión
+268,11,Abril,Sábado,21,Escuintla,Rural,Hombre,35,40-44,Mayor,Pick up,Blanco,IGNORADO,Colisión
+403,8,Junio,Lunes,21,Guatemala,Urbano,Hombre,25,35-39,Mayor,Automovil,Blanco,IGNORADO,Colisión
+732,9,Octubre,Viernes,21,Jutiapa,Rural,Mujer,41,40-44,Mayor,Camioneta,Blanco,IGNORADO,Embarranco
+738,12,Octubre,Lunes,21,Sololá,Urbano,Hombre,26,35-39,Mayor,Camión,Blanco,IGNORADO,Empotro
+760,25,Octubre,Domingo,21,Guatemala,Rural,Hombre,25,35-39,Mayor,Automovil,Blanco,IGNORADO,Empotro
+767,29,Octubre,Jueves,21,Sololá,Rural,Mujer,62,50-54,Mayor,Microbus,Azul,IGNORADO,Volco
+688,12,Septiembre,Sábado,21,Totonicapán,Rural,Mujer,32,35-39,Mayor,Camioneta,Gris,IGNORADO,Embarranco
+846,20,Diciembre,Domingo,21,San Marcos,Rural,Hombre,18,25-29,Mayor,Automovil,Gris,IGNORADO,Empotro
+860,23,Diciembre,Miércoles,21,Jutiapa,Rural,Hombre,35,40-44,Mayor,Automovil,Gris,IGNORADO,Colisión
+40,17,Enero,Sábado,21,Escuintla,Rural,Hombre,24,30-34,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+41,17,Enero,Sábado,21,Escuintla,Rural,Hombre,25,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+45,21,Enero,Miércoles,21,Escuintla,Rural,Hombre,31,35-39,Mayor,Automovil,Negro,IGNORADO,Colisión
+401,7,Junio,Domingo,21,Izabal,Rural,Hombre,22,30-34,Mayor,Camioneta,Negro,IGNORADO,Colisión
+491,18,Julio,Sábado,21,Escuintla,Rural,Hombre,25,35-39,Mayor,Cabezal,Negro,IGNORADO,Colisión
+492,18,Julio,Sábado,21,Escuintla,Rural,Hombre,30,35-39,Mayor,Cabezal,Negro,IGNORADO,Colisión
+727,6,Octubre,Martes,21,Escuintla,Rural,Hombre,18,25-29,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+309,25,Abril,Sábado,21,Guatemala,Rural,Hombre,24,30-34,Mayor,Motocicleta,Amarillo,IGNORADO,Colisión
+20,10,Enero,Sábado,21,Guatemala,Urbano,Hombre,29,35-39,Mayor,Camioneta,Ignorado,IGNORADO,Colisión
+66,31,Enero,Sábado,21,Retalhuleu,Rural,Mujer,28,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+303,21,Abril,Martes,21,Santa Rosa,Rural,Hombre,29,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+315,26,Abril,Domingo,21,San Marcos,Rural,Hombre,19,25-29,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+316,26,Abril,Domingo,21,San Marcos,Rural,Hombre,18,25-29,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+353,16,Mayo,Sábado,21,Guatemala,Urbano,Hombre,17,25-29,Menor,Motocicleta,Ignorado,IGNORADO,Colisión
+416,14,Junio,Domingo,21,El Progreso,Rural,Mujer,6,15-19,Menor,Pick up,Ignorado,IGNORADO,Colisión
+511,29,Julio,Miércoles,21,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+546,8,Agosto,Sábado,21,Chiquimula,Rural,Hombre,31,35-39,Mayor,Pick up,Ignorado,IGNORADO,Empotro
+564,16,Agosto,Domingo,21,Chimaltenango,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+623,8,Agosto,Sábado,21,Chiquimula,Rural,Hombre,31,35-39,Mayor,Pick up,Ignorado,IGNORADO,Empotro
+641,16,Agosto,Domingo,21,Chimaltenango,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Empotro
+666,29,Agosto,Sábado,21,Huehutenango,Rural,Hombre,20,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Embarranco
+685,11,Septiembre,Viernes,21,El Progreso,Rural,Hombre,42,40-44,Mayor,Automovil,Ignorado,IGNORADO,Colisión
+758,24,Octubre,Sábado,21,Escuintla,Rural,Hombre,18,25-29,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+759,24,Octubre,Sábado,21,Escuintla,Rural,Hombre,23,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+775,5,Noviembre,Jueves,21,Escuintla,Rural,Hombre,43,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+795,23,Noviembre,Lunes,22,Jutiapa,Rural,Hombre,54,45-49,Mayor,Cabezal,Beige,1993,Embarranco
+796,23,Noviembre,Lunes,22,Jutiapa,Rural,Hombre,50,45-49,Mayor,Cabezal,Beige,1993,Embarranco
+473,10,Julio,Viernes,22,Quetzaltenango,Rural,Hombre,14,20-24,Menor,Pick up,Negro,1994,Empotro
+377,28,Mayo,Jueves,22,Suchitepéquez,Rural,Hombre,28,35-39,Mayor,Automovil,Corinto,2000,Colisión
+743,16,Octubre,Viernes,22,Izabal,Rural,Hombre,34,35-39,Mayor,Motocicleta,Rojo,2007,Colisión
+661,27,Agosto,Jueves,22,Izabal,Rural,Hombre,31,35-39,Mayor,Panel,Blanco,2007,Colisión
+520,1,Agosto,Sábado,22,Chimaltenango,Rural,Mujer,25,35-39,Mayor,Motocicleta,Gris,2007,Colisión
+573,1,Agosto,Sábado,22,Chimaltenango,Rural,Mujer,25,35-39,Mayor,Motocicleta,Gris,2007,Colisión
+597,1,Agosto,Sábado,22,Chimaltenango,Rural,Mujer,25,35-39,Mayor,Motocicleta,Gris,2007,Colisión
+712,26,Septiembre,Sábado,22,Santa Rosa,Rural,Hombre,62,50-54,Mayor,Jeep,Rojo,IGNORADO,Embarranco
+742,15,Octubre,Jueves,22,Izabal,Rural,Hombre,34,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+789,20,Noviembre,Viernes,22,Santa Rosa,Rural,Hombre,25,35-39,Mayor,Pick up,Rojo,IGNORADO,Volco
+387,2,Junio,Martes,22,Escuintla,Rural,Hombre,57,50-54,Mayor,Cabezal,Blanco,IGNORADO,Colisión
+708,25,Septiembre,Viernes,22,Guatemala,Urbano,Hombre,30,35-39,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+720,1,Octubre,Jueves,22,Jutiapa,Rural,Mujer,23,30-34,Mayor,Camioneta,Azul,IGNORADO,Colisión
+437,20,Junio,Sábado,22,Chimaltenango,Rural,Hombre,24,30-34,Mayor,Automovil,Gris,IGNORADO,Colisión
+218,23,Marzo,Lunes,22,Quetzaltenango,Urbano,Hombre,20,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+341,7,Mayo,Jueves,22,Escuintla,Rural,Hombre,32,35-39,Mayor,Automovil,Negro,IGNORADO,Empotro
+486,15,Julio,Miércoles,22,Guatemala,Urbano,Hombre,33,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+850,21,Diciembre,Lunes,22,Suchitepéquez,Rural,Hombre,35,40-44,Mayor,Motocicleta,Verde,IGNORADO,Embarranco
+367,24,Mayo,Sábado,22,Guatemala,Urbano,Hombre,Ignorado,Ignorado,Menor,Pick up,Amarillo,IGNORADO,Volco
+37,16,Enero,Viernes,22,Izabal,Rural,Hombre,39,40-44,Mayor,Pick up,Ignorado,IGNORADO,Colisión
+49,24,Enero,Sábado,22,Escuintla,Rural,Hombre,23,30-34,Mayor,Ignorado,Ignorado,IGNORADO,Volco
+92,12,Febrero,Jueves,22,Escuintla,Rural,Hombre,42,40-44,Mayor,Microbus,Ignorado,IGNORADO,Colisión
+93,12,Febrero,Jueves,22,Escuintla,Rural,Hombre,45,45-49,Mayor,Microbus,Ignorado,IGNORADO,Colisión
+94,12,Febrero,Jueves,22,Escuintla,Rural,Hombre,28,35-39,Mayor,Microbus,Ignorado,IGNORADO,Colisión
+95,12,Febrero,Jueves,22,Escuintla,Rural,Hombre,50,45-49,Mayor,Microbus,Ignorado,IGNORADO,Colisión
+397,6,Junio,Sábado,22,Escuintla,Rural,Mujer,36,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Embarranco
+489,17,Julio,Viernes,22,El Progreso,Rural,Hombre,22,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Embarranco
+702,23,Septiembre,Miércoles,22,Zacapa,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+3,1,Enero,Jueves,23,Guatemala,Rural,Hombre,40,40-44,Mayor,Automovil,Corinto,1986,Colisión
+4,1,Enero,Jueves,23,Guatemala,Rural,Mujer,35,40-44,Mayor,Automovil,Corinto,1986,Colisión
+380,29,Mayo,Viernes,23,Huehutenango,Rural,Hombre,37,40-44,Mayor,Pick up,Azul,1996,Volco
+18,8,Enero,Jueves,23,Santa Rosa,Rural,Hombre,29,35-39,Mayor,Motocicleta,Azul,2007,Colisión
+284,18,Abril,Sábado,23,Guatemala,Urbano,Hombre,Ignorado,Ignorado,Mayor,Microbus,Azul,2007,Empotro
+271,12,Abril,Domingo,23,Escuintla,Rural,Hombre,26,35-39,Mayor,Motocicleta,Rojo,2008,Colisión
+234,30,Marzo,Lunes,23,Quetzaltenango,Rural,Hombre,60,50-54,Mayor,Motocicleta,Rojo,IGNORADO,Empotro
+252,9,Abril,Jueves,23,Quetzaltenango,Rural,Hombre,45,45-49,Mayor,Motocicleta,Rojo,IGNORADO,Embarranco
+256,10,Abril,Viernes,23,Guatemala,Urbano,Hombre,40,40-44,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+292,19,Abril,Domingo,23,Escuintla,Rural,Hombre,28,35-39,Mayor,Tractor,Rojo,IGNORADO,Volco
+293,19,Abril,Domingo,23,Escuintla,Rural,Hombre,54,45-49,Mayor,Tractor,Rojo,IGNORADO,Volco
+347,11,Mayo,Lunes,23,San Marcos,Rural,Hombre,32,35-39,Mayor,Ignorado,Rojo,IGNORADO,Empotro
+358,17,Mayo,Domingo,23,Sololá,Rural,Hombre,27,35-39,Mayor,Mototaxi,Rojo,IGNORADO,Empotro
+808,4,Diciembre,Viernes,23,Guatemala,Rural,Hombre,19,25-29,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+813,4,Diciembre,Viernes,23,Izabal,Rural,Hombre,28,35-39,Mayor,Motocicleta,Rojo,IGNORADO,Colisión
+676,3,Septiembre,Jueves,23,Totonicapán,Rural,Hombre,35,40-44,Mayor,Pick up,Blanco,IGNORADO,Empotro
+677,4,Septiembre,Viernes,23,Totonicapán,Rural,Hombre,29,35-39,Mayor,Automovil,Blanco,IGNORADO,Volco
+654,23,Agosto,Domingo,23,Petén,Rural,Hombre,37,40-44,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+854,21,Diciembre,Lunes,23,Santa Rosa,Rural,Hombre,19,25-29,Mayor,Motocicleta,Azul,IGNORADO,Colisión
+86,7,Febrero,Sábado,23,Guatemala,Urbano,Mujer,27,35-39,Mayor,Automovil,Gris,IGNORADO,Colisión
+765,28,Octubre,Miércoles,23,Petén,Rural,Hombre,35,40-44,Mayor,Camioneta,Gris,IGNORADO,Colisión
+766,28,Octubre,Miércoles,23,Petén,Rural,Hombre,40,40-44,Mayor,Camioneta,Gris,IGNORADO,Colisión
+283,18,Abril,Sábado,23,Guatemala,Urbano,Hombre,23,30-34,Mayor,Motocicleta,Negro,IGNORADO,Empotro
+833,13,Diciembre,Domingo,23,Quetzaltenango,Rural,Hombre,25,35-39,Mayor,Motocicleta,Negro,IGNORADO,Colisión
+259,10,Abril,Viernes,23,Santa Rosa,Rural,Hombre,21,30-34,Mayor,Camioneta,Café,IGNORADO,Volco
+452,27,Junio,Sábado,23,Petén,Rural,Hombre,49,45-49,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+538,3,Agosto,Lunes,23,Izabal,Rural,Hombre,29,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+591,3,Agosto,Lunes,23,Izabal,Rural,Hombre,29,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+615,3,Agosto,Lunes,23,Izabal,Rural,Hombre,29,35-39,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
+747,18,Octubre,Domingo,23,Guatemala,Urbano,Hombre,38,40-44,Mayor,Motocicleta,Ignorado,IGNORADO,Colisión
